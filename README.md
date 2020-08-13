@@ -4,7 +4,7 @@ I'm João, an astrophysicist searching for exoplanets.
 That's right, these 🌍 and these 🪐, but around other stars.
 
 ⬅️ I look more or less like that  
-👨‍💻 Code-wise, I write mostly Python and C++, but  
+👨‍💻 In coding mode, I write mostly Python and C++, but  
 🌱  I’m currently learning julia  
 📜 I keep a blog [here](https://joaofaria.space/blog/)
 
