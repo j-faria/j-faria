@@ -1,4 +1,21 @@
-### Hi there 👋
+### Olá 👋
+
+I'm João, an astrophysicist searching for exoplanets.  
+That's right, these 🌍 and these 🪐, but around other stars.
+
+---
+
+⬅️ I look more or less like that  
+👨‍💻 Code-wise, I write mostly Python and C++, but  
+🌱  I’m currently learning julia  
+📜 I keep a blog [here](https://joaofaria.space/blog/)
+
+Checkout some of my projects below
+
+<!--
+[![j-faria/kima - GitHub](https://gh-card.dev/repos/j-faria/kima.svg)](https://github.com/j-faria/kima)
+[![j-faria/kima - GitHub](https://gh-card.dev/repos/j-faria/kima.svg)](https://github.com/j-faria/kima)
+-->
 
 <!--
 **j-faria/j-faria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
