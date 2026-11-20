@@ -1,0 +1,11068 @@
+{
+  "schema": 3,
+  "login": "j-faria",
+  "account_id": 1958991,
+  "range": {
+    "from": "2012-01-01",
+    "to": "2026-11-19"
+  },
+  "observed_on": "2026-11-19",
+  "collected_with": "gitbonsai 0.4.0",
+  "language_colors": {
+    "C": "#555555",
+    "C++": "#f34b7d",
+    "CSS": "#663399",
+    "Common Workflow Language": "#b5314c",
+    "Dockerfile": "#384d54",
+    "Fortran": "#4d41b1",
+    "HTML": "#e34c26",
+    "JavaScript": "#f1e05a",
+    "Julia": "#a270ba",
+    "Jupyter Notebook": "#da5b0b",
+    "MATLAB": "#e16737",
+    "Makefile": "#427819",
+    "Python": "#3572a5",
+    "Ruby": "#701516",
+    "Rust": "#dea584",
+    "SCSS": "#c6538c",
+    "Shell": "#89e051",
+    "TeX": "#3d6117",
+    "TypeScript": "#3178c6"
+  },
+  "days": [
+    {
+      "date": "2012-07-11",
+      "total": 2,
+      "by_language": {}
+    },
+    {
+      "date": "2012-08-23",
+      "total": 5,
+      "by_language": {
+        "Fortran": 5
+      }
+    },
+    {
+      "date": "2012-08-30",
+      "total": 7,
+      "by_language": {
+        "Fortran": 7
+      }
+    },
+    {
+      "date": "2012-10-12",
+      "total": 2,
+      "by_language": {
+        "Fortran": 2
+      }
+    },
+    {
+      "date": "2012-10-30",
+      "total": 2,
+      "by_language": {}
+    },
+    {
+      "date": "2012-11-16",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2013-01-08",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-01-17",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2013-01-18",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2013-01-19",
+      "total": 1,
+      "by_language": {
+        "Fortran": 1
+      }
+    },
+    {
+      "date": "2013-01-21",
+      "total": 8,
+      "by_language": {
+        "Fortran": 8
+      }
+    },
+    {
+      "date": "2013-01-22",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-02-25",
+      "total": 1,
+      "by_language": {
+        "Fortran": 1
+      }
+    },
+    {
+      "date": "2013-02-26",
+      "total": 1,
+      "by_language": {
+        "Fortran": 1
+      }
+    },
+    {
+      "date": "2013-02-28",
+      "total": 11,
+      "by_language": {
+        "Fortran": 11
+      }
+    },
+    {
+      "date": "2013-03-01",
+      "total": 1,
+      "by_language": {
+        "Fortran": 1
+      }
+    },
+    {
+      "date": "2013-04-04",
+      "total": 1,
+      "by_language": {
+        "Julia": 1
+      }
+    },
+    {
+      "date": "2013-04-12",
+      "total": 3,
+      "by_language": {}
+    },
+    {
+      "date": "2013-05-11",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-06-11",
+      "total": 6,
+      "by_language": {
+        "TeX": 6
+      }
+    },
+    {
+      "date": "2013-07-14",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-08-12",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2013-08-22",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-08-26",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2013-08-27",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2013-08-28",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2013-08-30",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2013-09-04",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2013-09-05",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2013-09-09",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2013-09-15",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-09-30",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2013-10-01",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2013-10-03",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2013-10-04",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2013-10-08",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2013-10-09",
+      "total": 7,
+      "by_language": {
+        "Fortran": 6,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-10-10",
+      "total": 1,
+      "by_language": {
+        "Ruby": 1
+      }
+    },
+    {
+      "date": "2013-10-14",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2013-10-28",
+      "total": 5,
+      "by_language": {}
+    },
+    {
+      "date": "2013-10-31",
+      "total": 3,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-11-04",
+      "total": 12,
+      "by_language": {
+        "Fortran": 6,
+        "Python": 3
+      },
+      "private": 3
+    },
+    {
+      "date": "2013-11-05",
+      "total": 4,
+      "by_language": {
+        "Fortran": 3
+      },
+      "private": 1
+    },
+    {
+      "date": "2013-11-06",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2013-11-08",
+      "total": 2,
+      "by_language": {
+        "Fortran": 1,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-11-11",
+      "total": 2,
+      "by_language": {
+        "Fortran": 2
+      }
+    },
+    {
+      "date": "2013-11-12",
+      "total": 1,
+      "by_language": {
+        "Fortran": 1
+      }
+    },
+    {
+      "date": "2013-11-13",
+      "total": 7,
+      "by_language": {
+        "Fortran": 2,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2013-11-24",
+      "total": 9,
+      "by_language": {
+        "CSS": 3,
+        "Fortran": 3,
+        "Python": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2013-11-29",
+      "total": 3,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2013-12-01",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2013-12-05",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-12-06",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2013-12-09",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2013-12-10",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2013-12-11",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-12-12",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2013-12-14",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2013-12-16",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2013-12-17",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2013-12-18",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2013-12-19",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2013-12-20",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2013-12-23",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-01-04",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-01-06",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2014-01-07",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2014-01-08",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2014-01-10",
+      "total": 9,
+      "by_language": {
+        "Python": 9
+      }
+    },
+    {
+      "date": "2014-01-13",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2014-01-14",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2014-01-15",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-01-17",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2014-01-20",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-01-21",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-01-29",
+      "total": 7,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 5
+    },
+    {
+      "date": "2014-01-31",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2014-02-01",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2014-02-05",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-02-06",
+      "total": 10,
+      "by_language": {
+        "Python": 10
+      }
+    },
+    {
+      "date": "2014-02-07",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2014-02-10",
+      "total": 11,
+      "by_language": {
+        "Python": 10
+      },
+      "private": 1
+    },
+    {
+      "date": "2014-02-13",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2014-02-17",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2014-02-18",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2014-02-23",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2014-03-03",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2014-03-07",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2014-03-08",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2014-03-12",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2014-03-18",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2014-03-19",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2014-03-21",
+      "total": 9,
+      "by_language": {
+        "Python": 9
+      }
+    },
+    {
+      "date": "2014-04-04",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2014-04-09",
+      "total": 9,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2014-04-12",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2014-04-15",
+      "total": 5,
+      "by_language": {
+        "TeX": 1
+      },
+      "private": 4
+    },
+    {
+      "date": "2014-04-24",
+      "total": 10,
+      "by_language": {
+        "Python": 10
+      }
+    },
+    {
+      "date": "2014-04-28",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2014-05-01",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2014-05-02",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2014-05-05",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2014-05-08",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2014-05-12",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-05-14",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-05-19",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2014-05-27",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2014-05-28",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2014-05-29",
+      "total": 8,
+      "by_language": {
+        "Python": 3,
+        "TeX": 1
+      },
+      "private": 4
+    },
+    {
+      "date": "2014-06-05",
+      "total": 5,
+      "by_language": {
+        "Common Workflow Language": 1,
+        "Python": 1
+      },
+      "private": 3
+    },
+    {
+      "date": "2014-06-08",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2014-06-09",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2014-06-18",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2014-06-24",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2014-07-01",
+      "total": 3,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2014-07-07",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2014-07-09",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2014-07-10",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2014-07-11",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2014-07-14",
+      "total": 3,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2014-07-15",
+      "total": 4,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2014-07-16",
+      "total": 3,
+      "by_language": {
+        "Fortran": 3
+      }
+    },
+    {
+      "date": "2014-07-17",
+      "total": 5,
+      "by_language": {
+        "Fortran": 4
+      },
+      "private": 1
+    },
+    {
+      "date": "2014-07-19",
+      "total": 2,
+      "by_language": {
+        "Fortran": 1,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-07-21",
+      "total": 10,
+      "by_language": {
+        "Fortran": 5,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2014-07-25",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2014-08-04",
+      "total": 5,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2014-08-25",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-08-29",
+      "total": 9,
+      "by_language": {
+        "Jupyter Notebook": 5,
+        "Python": 4
+      }
+    },
+    {
+      "date": "2014-09-02",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2014-09-03",
+      "total": 7,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2014-09-04",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2014-09-05",
+      "total": 14,
+      "by_language": {
+        "Fortran": 1,
+        "Python": 13
+      }
+    },
+    {
+      "date": "2014-09-06",
+      "total": 12,
+      "by_language": {
+        "Python": 7
+      },
+      "private": 3
+    },
+    {
+      "date": "2014-09-08",
+      "total": 9,
+      "by_language": {
+        "Fortran": 1,
+        "Python": 8
+      }
+    },
+    {
+      "date": "2014-09-11",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2014-09-18",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2014-09-24",
+      "total": 12,
+      "by_language": {
+        "Python": 12
+      }
+    },
+    {
+      "date": "2014-09-26",
+      "total": 4,
+      "by_language": {
+        "Fortran": 4
+      }
+    },
+    {
+      "date": "2014-10-03",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2014-10-15",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2014-10-22",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2014-10-24",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2014-10-25",
+      "total": 8,
+      "by_language": {
+        "Jupyter Notebook": 6,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2014-10-26",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-11-03",
+      "total": 13,
+      "by_language": {
+        "Fortran": 1,
+        "Jupyter Notebook": 7,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2014-11-04",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2014-11-05",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2014-11-10",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2014-11-13",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2014-11-14",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2014-11-16",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2014-11-18",
+      "total": 13,
+      "by_language": {},
+      "private": 13
+    },
+    {
+      "date": "2014-11-19",
+      "total": 3,
+      "by_language": {
+        "Jupyter Notebook": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2014-11-20",
+      "total": 6,
+      "by_language": {
+        "Jupyter Notebook": 6
+      }
+    },
+    {
+      "date": "2014-11-24",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2014-11-25",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2014-11-26",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2014-11-27",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2014-11-28",
+      "total": 3,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2014-11-29",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2014-12-01",
+      "total": 9,
+      "by_language": {
+        "Fortran": 2,
+        "Python": 7
+      }
+    },
+    {
+      "date": "2014-12-02",
+      "total": 14,
+      "by_language": {
+        "Fortran": 2,
+        "Python": 12
+      }
+    },
+    {
+      "date": "2014-12-03",
+      "total": 20,
+      "by_language": {
+        "Fortran": 1,
+        "Python": 18
+      },
+      "private": 1
+    },
+    {
+      "date": "2014-12-04",
+      "total": 5,
+      "by_language": {
+        "Jupyter Notebook": 5
+      }
+    },
+    {
+      "date": "2014-12-05",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2014-12-09",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2014-12-10",
+      "total": 4,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 3
+    },
+    {
+      "date": "2014-12-11",
+      "total": 3,
+      "by_language": {
+        "Jupyter Notebook": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2014-12-15",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2014-12-16",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2014-12-22",
+      "total": 3,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2015-01-07",
+      "total": 11,
+      "by_language": {
+        "Fortran": 1,
+        "Python": 10
+      }
+    },
+    {
+      "date": "2015-01-08",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2015-01-09",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-01-15",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2015-01-16",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2015-01-22",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2015-01-23",
+      "total": 16,
+      "by_language": {
+        "C++": 16
+      }
+    },
+    {
+      "date": "2015-01-24",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2015-01-26",
+      "total": 20,
+      "by_language": {
+        "C++": 8,
+        "Python": 9
+      },
+      "private": 3
+    },
+    {
+      "date": "2015-01-27",
+      "total": 7,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 5
+    },
+    {
+      "date": "2015-01-28",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2015-02-03",
+      "total": 10,
+      "by_language": {
+        "Fortran": 1,
+        "Python": 7
+      },
+      "private": 2
+    },
+    {
+      "date": "2015-02-04",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2015-02-05",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2015-02-06",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2015-02-07",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-02-08",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2015-02-10",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2015-02-11",
+      "total": 11,
+      "by_language": {
+        "Python": 11
+      }
+    },
+    {
+      "date": "2015-02-12",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-02-13",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2015-02-16",
+      "total": 11,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 5
+    },
+    {
+      "date": "2015-02-17",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2015-02-18",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2015-02-19",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2015-02-23",
+      "total": 8,
+      "by_language": {
+        "Fortran": 1,
+        "Python": 7
+      }
+    },
+    {
+      "date": "2015-02-24",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-02-25",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-02-27",
+      "total": 13,
+      "by_language": {
+        "Python": 5,
+        "TeX": 8
+      }
+    },
+    {
+      "date": "2015-02-28",
+      "total": 10,
+      "by_language": {
+        "Fortran": 1,
+        "Python": 9
+      }
+    },
+    {
+      "date": "2015-03-01",
+      "total": 9,
+      "by_language": {
+        "HTML": 5,
+        "Python": 4
+      }
+    },
+    {
+      "date": "2015-03-02",
+      "total": 16,
+      "by_language": {
+        "Fortran": 1,
+        "HTML": 7,
+        "Python": 8
+      }
+    },
+    {
+      "date": "2015-03-03",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-03-04",
+      "total": 12,
+      "by_language": {
+        "Python": 7
+      },
+      "private": 5
+    },
+    {
+      "date": "2015-03-10",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2015-03-13",
+      "total": 11,
+      "by_language": {
+        "Python": 3
+      },
+      "private": 8
+    },
+    {
+      "date": "2015-03-15",
+      "total": 3,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2015-03-16",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2015-03-18",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2015-03-19",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2015-03-20",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2015-03-21",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2015-03-26",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-03-30",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2015-03-31",
+      "total": 16,
+      "by_language": {
+        "Python": 8
+      },
+      "private": 8
+    },
+    {
+      "date": "2015-04-01",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-04-02",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-04-03",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2015-04-06",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2015-04-08",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-04-22",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-04-23",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-04-24",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-04-27",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-04-28",
+      "total": 4,
+      "by_language": {
+        "Python": 3
+      },
+      "private": 1
+    },
+    {
+      "date": "2015-04-30",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2015-05-03",
+      "total": 8,
+      "by_language": {
+        "HTML": 8
+      }
+    },
+    {
+      "date": "2015-05-04",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-05-05",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2015-05-06",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2015-05-07",
+      "total": 9,
+      "by_language": {
+        "C++": 4,
+        "Fortran": 4,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-05-08",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2015-05-09",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-05-10",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2015-05-11",
+      "total": 7,
+      "by_language": {
+        "HTML": 5,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-05-12",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-05-18",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2015-06-05",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-06-08",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2015-06-10",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2015-06-11",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2015-06-16",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2015-06-28",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2015-07-03",
+      "total": 9,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2015-07-15",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2015-07-27",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2015-07-31",
+      "total": 10,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2015-08-04",
+      "total": 9,
+      "by_language": {
+        "Python": 3
+      },
+      "private": 5
+    },
+    {
+      "date": "2015-08-05",
+      "total": 5,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2015-08-06",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2015-08-27",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2015-09-03",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-09-04",
+      "total": 12,
+      "by_language": {
+        "Python": 12
+      }
+    },
+    {
+      "date": "2015-09-13",
+      "total": 9,
+      "by_language": {
+        "HTML": 9
+      }
+    },
+    {
+      "date": "2015-09-15",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2015-09-23",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-09-24",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2015-09-28",
+      "total": 8,
+      "by_language": {
+        "TeX": 3
+      }
+    },
+    {
+      "date": "2015-09-29",
+      "total": 12,
+      "by_language": {
+        "TeX": 9
+      }
+    },
+    {
+      "date": "2015-09-30",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2015-10-01",
+      "total": 4,
+      "by_language": {
+        "TeX": 4
+      }
+    },
+    {
+      "date": "2015-10-02",
+      "total": 4,
+      "by_language": {
+        "TeX": 4
+      }
+    },
+    {
+      "date": "2015-10-03",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2015-10-05",
+      "total": 8,
+      "by_language": {
+        "Fortran": 1,
+        "HTML": 1,
+        "Python": 6
+      }
+    },
+    {
+      "date": "2015-10-06",
+      "total": 7,
+      "by_language": {
+        "Python": 6,
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2015-10-07",
+      "total": 3,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2015-10-12",
+      "total": 2,
+      "by_language": {
+        "TeX": 2
+      }
+    },
+    {
+      "date": "2015-10-14",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2015-10-20",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2015-10-21",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2015-10-23",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2015-10-26",
+      "total": 7,
+      "by_language": {
+        "Python": 4
+      },
+      "private": 3
+    },
+    {
+      "date": "2015-11-17",
+      "total": 5,
+      "by_language": {
+        "TeX": 5
+      }
+    },
+    {
+      "date": "2015-11-19",
+      "total": 2,
+      "by_language": {}
+    },
+    {
+      "date": "2015-11-24",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2015-11-26",
+      "total": 10,
+      "by_language": {}
+    },
+    {
+      "date": "2015-11-27",
+      "total": 10,
+      "by_language": {
+        "HTML": 10
+      }
+    },
+    {
+      "date": "2015-12-01",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2015-12-02",
+      "total": 3,
+      "by_language": {}
+    },
+    {
+      "date": "2015-12-03",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2015-12-07",
+      "total": 7,
+      "by_language": {
+        "HTML": 7
+      }
+    },
+    {
+      "date": "2015-12-14",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-01-18",
+      "total": 9,
+      "by_language": {
+        "TeX": 9
+      }
+    },
+    {
+      "date": "2016-01-21",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2016-01-23",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2016-01-25",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2016-01-27",
+      "total": 6,
+      "by_language": {}
+    },
+    {
+      "date": "2016-01-28",
+      "total": 3,
+      "by_language": {
+        "HTML": 3
+      }
+    },
+    {
+      "date": "2016-01-29",
+      "total": 3,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2016-02-03",
+      "total": 2,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2016-02-05",
+      "total": 4,
+      "by_language": {
+        "TeX": 4
+      }
+    },
+    {
+      "date": "2016-02-07",
+      "total": 6,
+      "by_language": {
+        "HTML": 6
+      }
+    },
+    {
+      "date": "2016-02-08",
+      "total": 10,
+      "by_language": {
+        "TeX": 10
+      }
+    },
+    {
+      "date": "2016-02-09",
+      "total": 5,
+      "by_language": {
+        "HTML": 4,
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2016-02-12",
+      "total": 5,
+      "by_language": {
+        "TeX": 5
+      }
+    },
+    {
+      "date": "2016-02-16",
+      "total": 2,
+      "by_language": {
+        "TeX": 2
+      }
+    },
+    {
+      "date": "2016-02-17",
+      "total": 3,
+      "by_language": {
+        "TeX": 3
+      }
+    },
+    {
+      "date": "2016-02-19",
+      "total": 2,
+      "by_language": {
+        "C++": 1,
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2016-02-27",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2016-03-07",
+      "total": 3,
+      "by_language": {
+        "HTML": 3
+      }
+    },
+    {
+      "date": "2016-03-14",
+      "total": 4,
+      "by_language": {
+        "C++": 3,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-03-15",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2016-03-23",
+      "total": 6,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 4
+    },
+    {
+      "date": "2016-03-30",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2016-04-04",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-04-05",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2016-04-23",
+      "total": 4,
+      "by_language": {
+        "HTML": 4
+      }
+    },
+    {
+      "date": "2016-04-25",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2016-05-01",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2016-05-02",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2016-05-07",
+      "total": 11,
+      "by_language": {
+        "HTML": 11
+      }
+    },
+    {
+      "date": "2016-05-08",
+      "total": 4,
+      "by_language": {
+        "HTML": 4
+      }
+    },
+    {
+      "date": "2016-05-09",
+      "total": 4,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2016-05-10",
+      "total": 9,
+      "by_language": {
+        "HTML": 9
+      }
+    },
+    {
+      "date": "2016-05-12",
+      "total": 12,
+      "by_language": {
+        "HTML": 6
+      },
+      "private": 3
+    },
+    {
+      "date": "2016-05-13",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2016-05-16",
+      "total": 8,
+      "by_language": {
+        "TeX": 8
+      }
+    },
+    {
+      "date": "2016-05-17",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2016-05-18",
+      "total": 3,
+      "by_language": {
+        "HTML": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2016-05-20",
+      "total": 4,
+      "by_language": {
+        "TeX": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2016-06-01",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2016-06-02",
+      "total": 7,
+      "by_language": {
+        "C++": 6,
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2016-06-03",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2016-06-14",
+      "total": 4,
+      "by_language": {
+        "HTML": 4
+      }
+    },
+    {
+      "date": "2016-06-16",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-07-01",
+      "total": 5,
+      "by_language": {
+        "Jupyter Notebook": 5
+      }
+    },
+    {
+      "date": "2016-07-06",
+      "total": 4,
+      "by_language": {
+        "Jupyter Notebook": 4
+      }
+    },
+    {
+      "date": "2016-07-17",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2016-07-21",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2016-07-24",
+      "total": 3,
+      "by_language": {
+        "Jupyter Notebook": 3
+      }
+    },
+    {
+      "date": "2016-07-25",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2016-07-26",
+      "total": 17,
+      "by_language": {
+        "Jupyter Notebook": 17
+      }
+    },
+    {
+      "date": "2016-08-19",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2016-08-22",
+      "total": 8,
+      "by_language": {
+        "C++": 3,
+        "Fortran": 5
+      }
+    },
+    {
+      "date": "2016-08-23",
+      "total": 12,
+      "by_language": {
+        "C++": 5,
+        "Python": 2,
+        "TeX": 3
+      },
+      "private": 1
+    },
+    {
+      "date": "2016-08-24",
+      "total": 45,
+      "by_language": {
+        "C++": 18,
+        "Python": 9,
+        "TeX": 9
+      },
+      "private": 7
+    },
+    {
+      "date": "2016-09-02",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "Python": 1,
+        "TeX": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2016-09-04",
+      "total": 6,
+      "by_language": {
+        "C++": 2,
+        "Python": 1,
+        "TeX": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2016-09-14",
+      "total": 22,
+      "by_language": {
+        "C++": 6,
+        "Python": 3,
+        "TeX": 3
+      },
+      "private": 8
+    },
+    {
+      "date": "2016-09-15",
+      "total": 7,
+      "by_language": {
+        "C++": 2,
+        "Python": 3,
+        "TeX": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2016-09-16",
+      "total": 23,
+      "by_language": {
+        "C++": 11,
+        "Python": 4,
+        "TeX": 4
+      },
+      "private": 3
+    },
+    {
+      "date": "2016-09-19",
+      "total": 15,
+      "by_language": {
+        "C++": 6,
+        "Python": 3,
+        "TeX": 3
+      },
+      "private": 2
+    },
+    {
+      "date": "2016-09-21",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-09-24",
+      "total": 6,
+      "by_language": {
+        "C++": 2,
+        "Python": 1,
+        "TeX": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2016-09-27",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "Python": 1,
+        "TeX": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2016-10-01",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-10-06",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-10-12",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2016-10-26",
+      "total": 12,
+      "by_language": {
+        "Jupyter Notebook": 12
+      }
+    },
+    {
+      "date": "2016-10-29",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2016-11-05",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "Python": 1,
+        "TeX": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2016-11-10",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2016-11-17",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2016-11-22",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-11-23",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2016-11-24",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2016-11-25",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-11-26",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-11-30",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-12-01",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-12-02",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-12-05",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2016-12-13",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2017-01-06",
+      "total": 4,
+      "by_language": {
+        "Jupyter Notebook": 4
+      }
+    },
+    {
+      "date": "2017-01-11",
+      "total": 2,
+      "by_language": {
+        "TeX": 2
+      }
+    },
+    {
+      "date": "2017-01-16",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2017-02-01",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2017-03-14",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2017-04-02",
+      "total": 2,
+      "by_language": {
+        "TeX": 2
+      }
+    },
+    {
+      "date": "2017-04-03",
+      "total": 30,
+      "by_language": {
+        "C++": 12,
+        "Python": 6,
+        "TeX": 6
+      },
+      "private": 5
+    },
+    {
+      "date": "2017-04-04",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "Python": 1,
+        "TeX": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-04-06",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "Python": 1,
+        "TeX": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-04-07",
+      "total": 101,
+      "by_language": {
+        "C++": 40,
+        "Python": 20,
+        "TeX": 21
+      },
+      "private": 18
+    },
+    {
+      "date": "2017-04-08",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "Python": 1,
+        "TeX": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-04-09",
+      "total": 15,
+      "by_language": {
+        "C++": 6,
+        "Python": 3,
+        "TeX": 3
+      },
+      "private": 3
+    },
+    {
+      "date": "2017-04-11",
+      "total": 25,
+      "by_language": {
+        "C++": 10,
+        "Python": 5,
+        "TeX": 5
+      },
+      "private": 4
+    },
+    {
+      "date": "2017-04-12",
+      "total": 1,
+      "by_language": {
+        "MATLAB": 1
+      }
+    },
+    {
+      "date": "2017-04-22",
+      "total": 20,
+      "by_language": {
+        "C++": 8,
+        "Python": 4,
+        "TeX": 4
+      },
+      "private": 3
+    },
+    {
+      "date": "2017-05-02",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2017-05-20",
+      "total": 3,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2017-05-24",
+      "total": 4,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2017-05-25",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2017-05-26",
+      "total": 19,
+      "by_language": {
+        "C++": 4,
+        "Python": 11,
+        "TeX": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2017-06-02",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2017-06-08",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2017-06-09",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2017-06-15",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2017-06-21",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2017-06-22",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 1,
+        "Python": 3
+      }
+    },
+    {
+      "date": "2017-06-26",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2017-06-27",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2017-06-29",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2017-06-30",
+      "total": 2,
+      "by_language": {
+        "JavaScript": 1,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2017-07-01",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2017-07-04",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2017-07-17",
+      "total": 30,
+      "by_language": {
+        "C++": 14,
+        "Python": 8,
+        "TeX": 1
+      },
+      "private": 6
+    },
+    {
+      "date": "2017-07-25",
+      "total": 28,
+      "by_language": {
+        "C++": 12,
+        "Python": 10
+      },
+      "private": 5
+    },
+    {
+      "date": "2017-07-29",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2017-07-30",
+      "total": 20,
+      "by_language": {
+        "C++": 10,
+        "Python": 5
+      },
+      "private": 5
+    },
+    {
+      "date": "2017-07-31",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2017-08-04",
+      "total": 11,
+      "by_language": {
+        "C++": 7,
+        "Python": 1
+      },
+      "private": 3
+    },
+    {
+      "date": "2017-08-10",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2017-08-12",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2017-08-13",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2017-08-15",
+      "total": 10,
+      "by_language": {
+        "Python": 10
+      }
+    },
+    {
+      "date": "2017-09-05",
+      "total": 4,
+      "by_language": {
+        "Jupyter Notebook": 4
+      }
+    },
+    {
+      "date": "2017-09-07",
+      "total": 5,
+      "by_language": {
+        "Shell": 1,
+        "TeX": 4
+      }
+    },
+    {
+      "date": "2017-09-08",
+      "total": 6,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 5
+    },
+    {
+      "date": "2017-09-11",
+      "total": 2,
+      "by_language": {
+        "C": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-09-12",
+      "total": 11,
+      "by_language": {
+        "CSS": 11
+      }
+    },
+    {
+      "date": "2017-09-13",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2017-09-14",
+      "total": 11,
+      "by_language": {
+        "C++": 4,
+        "Python": 5
+      },
+      "private": 2
+    },
+    {
+      "date": "2017-09-15",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2017-09-18",
+      "total": 15,
+      "by_language": {
+        "C++": 10
+      },
+      "private": 5
+    },
+    {
+      "date": "2017-09-19",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2017-09-20",
+      "total": 27,
+      "by_language": {
+        "Jupyter Notebook": 10,
+        "Python": 17
+      }
+    },
+    {
+      "date": "2017-09-21",
+      "total": 4,
+      "by_language": {
+        "C++": 2,
+        "Jupyter Notebook": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-09-22",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2017-09-24",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2017-09-25",
+      "total": 4,
+      "by_language": {
+        "Jupyter Notebook": 1,
+        "TeX": 3
+      }
+    },
+    {
+      "date": "2017-09-26",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "Jupyter Notebook": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-09-27",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2017-09-28",
+      "total": 9,
+      "by_language": {
+        "Python": 7
+      },
+      "private": 2
+    },
+    {
+      "date": "2017-09-29",
+      "total": 99,
+      "by_language": {
+        "HTML": 1
+      },
+      "private": 93
+    },
+    {
+      "date": "2017-10-10",
+      "total": 12,
+      "by_language": {
+        "C": 2,
+        "Jupyter Notebook": 1
+      },
+      "private": 9
+    },
+    {
+      "date": "2017-10-11",
+      "total": 7,
+      "by_language": {},
+      "private": 7
+    },
+    {
+      "date": "2017-10-16",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2017-10-17",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2017-10-26",
+      "total": 37,
+      "by_language": {
+        "C++": 16
+      },
+      "private": 21
+    },
+    {
+      "date": "2017-10-27",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-10-31",
+      "total": 9,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 7
+    },
+    {
+      "date": "2017-11-01",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2017-11-04",
+      "total": 10,
+      "by_language": {},
+      "private": 10
+    },
+    {
+      "date": "2017-11-06",
+      "total": 9,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 3
+    },
+    {
+      "date": "2017-11-08",
+      "total": 45,
+      "by_language": {
+        "C++": 30
+      },
+      "private": 15
+    },
+    {
+      "date": "2017-11-09",
+      "total": 13,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 7
+    },
+    {
+      "date": "2017-11-10",
+      "total": 9,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2017-11-11",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2017-11-12",
+      "total": 19,
+      "by_language": {
+        "C++": 13
+      },
+      "private": 6
+    },
+    {
+      "date": "2017-11-13",
+      "total": 33,
+      "by_language": {
+        "C++": 22
+      },
+      "private": 11
+    },
+    {
+      "date": "2017-11-14",
+      "total": 7,
+      "by_language": {
+        "C++": 4,
+        "Jupyter Notebook": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2017-11-15",
+      "total": 25,
+      "by_language": {
+        "C++": 17
+      },
+      "private": 8
+    },
+    {
+      "date": "2017-11-16",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2017-11-20",
+      "total": 44,
+      "by_language": {
+        "C++": 32
+      },
+      "private": 12
+    },
+    {
+      "date": "2017-11-21",
+      "total": 11,
+      "by_language": {
+        "C++": 9
+      },
+      "private": 2
+    },
+    {
+      "date": "2017-11-22",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-11-24",
+      "total": 9,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 3
+    },
+    {
+      "date": "2017-11-26",
+      "total": 9,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 3
+    },
+    {
+      "date": "2017-11-27",
+      "total": 12,
+      "by_language": {
+        "C++": 8
+      },
+      "private": 4
+    },
+    {
+      "date": "2017-11-28",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2017-12-04",
+      "total": 33,
+      "by_language": {
+        "C++": 22
+      },
+      "private": 11
+    },
+    {
+      "date": "2017-12-05",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2017-12-06",
+      "total": 12,
+      "by_language": {
+        "C++": 8
+      },
+      "private": 4
+    },
+    {
+      "date": "2017-12-07",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2017-12-08",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-12-10",
+      "total": 9,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 3
+    },
+    {
+      "date": "2017-12-12",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-12-13",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2017-12-15",
+      "total": 15,
+      "by_language": {
+        "C++": 8,
+        "Python": 3
+      },
+      "private": 4
+    },
+    {
+      "date": "2017-12-18",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2017-12-28",
+      "total": 18,
+      "by_language": {
+        "C++": 12
+      },
+      "private": 6
+    },
+    {
+      "date": "2017-12-30",
+      "total": 21,
+      "by_language": {
+        "C++": 14
+      },
+      "private": 7
+    },
+    {
+      "date": "2018-01-03",
+      "total": 49,
+      "by_language": {
+        "C++": 33
+      },
+      "private": 15
+    },
+    {
+      "date": "2018-01-04",
+      "total": 12,
+      "by_language": {
+        "C++": 8
+      },
+      "private": 4
+    },
+    {
+      "date": "2018-01-07",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-01-11",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-01-13",
+      "total": 7,
+      "by_language": {
+        "C++": 4,
+        "Jupyter Notebook": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-01-14",
+      "total": 34,
+      "by_language": {
+        "C++": 23
+      },
+      "private": 10
+    },
+    {
+      "date": "2018-01-17",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-02-02",
+      "total": 24,
+      "by_language": {
+        "C++": 18
+      },
+      "private": 6
+    },
+    {
+      "date": "2018-02-05",
+      "total": 9,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 3
+    },
+    {
+      "date": "2018-02-06",
+      "total": 3,
+      "by_language": {
+        "TeX": 3
+      }
+    },
+    {
+      "date": "2018-02-08",
+      "total": 3,
+      "by_language": {
+        "TeX": 3
+      }
+    },
+    {
+      "date": "2018-02-14",
+      "total": 21,
+      "by_language": {
+        "C++": 14
+      },
+      "private": 7
+    },
+    {
+      "date": "2018-02-15",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2018-02-19",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2018-02-20",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2018-02-21",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2018-02-22",
+      "total": 12,
+      "by_language": {
+        "C++": 9
+      },
+      "private": 3
+    },
+    {
+      "date": "2018-02-26",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-02-27",
+      "total": 16,
+      "by_language": {
+        "C++": 11
+      },
+      "private": 5
+    },
+    {
+      "date": "2018-03-01",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-03-02",
+      "total": 35,
+      "by_language": {
+        "C++": 18,
+        "Python": 8
+      },
+      "private": 9
+    },
+    {
+      "date": "2018-03-06",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2018-03-07",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2018-03-08",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2018-03-09",
+      "total": 13,
+      "by_language": {
+        "Python": 13
+      }
+    },
+    {
+      "date": "2018-03-10",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2018-03-13",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2018-03-15",
+      "total": 4,
+      "by_language": {
+        "C++": 2,
+        "Python": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-03-16",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2018-03-18",
+      "total": 8,
+      "by_language": {
+        "HTML": 1,
+        "Jupyter Notebook": 3,
+        "Python": 4
+      }
+    },
+    {
+      "date": "2018-03-22",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2018-03-28",
+      "total": 10,
+      "by_language": {
+        "Jupyter Notebook": 2,
+        "Python": 8
+      }
+    },
+    {
+      "date": "2018-03-29",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2018-03-30",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2018-04-03",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2018-04-11",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2018-04-12",
+      "total": 5,
+      "by_language": {
+        "Jupyter Notebook": 3
+      }
+    },
+    {
+      "date": "2018-04-13",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2018-04-19",
+      "total": 7,
+      "by_language": {
+        "CSS": 7
+      }
+    },
+    {
+      "date": "2018-04-20",
+      "total": 4,
+      "by_language": {
+        "CSS": 4
+      }
+    },
+    {
+      "date": "2018-04-25",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2018-04-26",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2018-04-27",
+      "total": 3,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2018-04-28",
+      "total": 15,
+      "by_language": {
+        "C++": 10,
+        "Python": 2
+      },
+      "private": 3
+    },
+    {
+      "date": "2018-04-29",
+      "total": 12,
+      "by_language": {
+        "C++": 6,
+        "JavaScript": 2,
+        "Python": 1
+      },
+      "private": 3
+    },
+    {
+      "date": "2018-04-30",
+      "total": 10,
+      "by_language": {
+        "JavaScript": 10
+      }
+    },
+    {
+      "date": "2018-05-01",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2018-05-02",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2018-05-03",
+      "total": 21,
+      "by_language": {
+        "C++": 14,
+        "JavaScript": 1
+      },
+      "private": 6
+    },
+    {
+      "date": "2018-05-04",
+      "total": 8,
+      "by_language": {
+        "C++": 3,
+        "Python": 4
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-05-15",
+      "total": 15,
+      "by_language": {
+        "C++": 10
+      },
+      "private": 5
+    },
+    {
+      "date": "2018-05-16",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-05-21",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2018-05-22",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2018-05-23",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2018-05-24",
+      "total": 11,
+      "by_language": {
+        "HTML": 4,
+        "Python": 7
+      }
+    },
+    {
+      "date": "2018-05-25",
+      "total": 17,
+      "by_language": {
+        "Python": 17
+      }
+    },
+    {
+      "date": "2018-05-28",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-06-04",
+      "total": 13,
+      "by_language": {
+        "C++": 9
+      },
+      "private": 4
+    },
+    {
+      "date": "2018-06-06",
+      "total": 34,
+      "by_language": {
+        "C++": 25
+      },
+      "private": 9
+    },
+    {
+      "date": "2018-06-07",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-06-11",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-06-12",
+      "total": 44,
+      "by_language": {
+        "C++": 30
+      },
+      "private": 14
+    },
+    {
+      "date": "2018-06-13",
+      "total": 7,
+      "by_language": {
+        "C++": 2,
+        "Python": 4
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-06-14",
+      "total": 22,
+      "by_language": {
+        "C++": 8,
+        "Python": 10
+      },
+      "private": 4
+    },
+    {
+      "date": "2018-06-15",
+      "total": 21,
+      "by_language": {
+        "C++": 14
+      },
+      "private": 7
+    },
+    {
+      "date": "2018-06-18",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-06-19",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-06-20",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2018-06-26",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-06-27",
+      "total": 9,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 3
+    },
+    {
+      "date": "2018-06-29",
+      "total": 2,
+      "by_language": {}
+    },
+    {
+      "date": "2018-07-02",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-07-03",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-07-04",
+      "total": 7,
+      "by_language": {
+        "C++": 5
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-07-11",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2018-07-12",
+      "total": 3,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-07-13",
+      "total": 3,
+      "by_language": {
+        "C++": 2,
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2018-07-16",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2018-07-18",
+      "total": 6,
+      "by_language": {
+        "C++": 1,
+        "Python": 4
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-07-19",
+      "total": 24,
+      "by_language": {
+        "C++": 5,
+        "Python": 15
+      },
+      "private": 4
+    },
+    {
+      "date": "2018-07-20",
+      "total": 19,
+      "by_language": {
+        "C++": 19
+      }
+    },
+    {
+      "date": "2018-07-23",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-07-25",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2018-07-31",
+      "total": 11,
+      "by_language": {},
+      "private": 10
+    },
+    {
+      "date": "2018-08-20",
+      "total": 4,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-08-21",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-08-22",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2018-08-24",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2018-08-27",
+      "total": 15,
+      "by_language": {
+        "C++": 10
+      },
+      "private": 5
+    },
+    {
+      "date": "2018-08-28",
+      "total": 9,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 3
+    },
+    {
+      "date": "2018-08-29",
+      "total": 6,
+      "by_language": {
+        "CSS": 1,
+        "Python": 3
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-08-30",
+      "total": 10,
+      "by_language": {
+        "Python": 10
+      }
+    },
+    {
+      "date": "2018-09-04",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2018-09-06",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2018-09-07",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2018-09-11",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2018-10-02",
+      "total": 25,
+      "by_language": {
+        "C++": 17
+      },
+      "private": 7
+    },
+    {
+      "date": "2018-10-03",
+      "total": 20,
+      "by_language": {
+        "C++": 12
+      },
+      "private": 7
+    },
+    {
+      "date": "2018-10-05",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2018-10-08",
+      "total": 9,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 3
+    },
+    {
+      "date": "2018-10-09",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-10-11",
+      "total": 6,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2018-10-12",
+      "total": 7,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 5
+    },
+    {
+      "date": "2018-10-17",
+      "total": 4,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-10-18",
+      "total": 15,
+      "by_language": {
+        "Jupyter Notebook": 2,
+        "Python": 13
+      }
+    },
+    {
+      "date": "2018-10-19",
+      "total": 19,
+      "by_language": {
+        "C++": 13
+      },
+      "private": 5
+    },
+    {
+      "date": "2018-10-22",
+      "total": 7,
+      "by_language": {
+        "C++": 5
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-10-23",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2018-10-24",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-10-25",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2018-10-26",
+      "total": 19,
+      "by_language": {
+        "C++": 10,
+        "Jupyter Notebook": 2,
+        "Python": 2
+      },
+      "private": 5
+    },
+    {
+      "date": "2018-10-27",
+      "total": 15,
+      "by_language": {
+        "C++": 10
+      },
+      "private": 5
+    },
+    {
+      "date": "2018-10-29",
+      "total": 12,
+      "by_language": {
+        "C++": 8
+      },
+      "private": 4
+    },
+    {
+      "date": "2018-10-30",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2018-10-31",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2018-11-02",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2018-11-05",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2018-11-06",
+      "total": 13,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 8
+    },
+    {
+      "date": "2018-11-07",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-11-09",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2018-11-12",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2018-11-13",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2018-11-26",
+      "total": 18,
+      "by_language": {
+        "C++": 12
+      },
+      "private": 5
+    },
+    {
+      "date": "2018-11-29",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2018-12-05",
+      "total": 15,
+      "by_language": {
+        "C++": 10
+      },
+      "private": 5
+    },
+    {
+      "date": "2018-12-06",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2018-12-15",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2018-12-21",
+      "total": 14,
+      "by_language": {
+        "C++": 9
+      },
+      "private": 5
+    },
+    {
+      "date": "2019-01-02",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2019-01-03",
+      "total": 7,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 5
+    },
+    {
+      "date": "2019-01-05",
+      "total": 9,
+      "by_language": {
+        "Python": 9
+      }
+    },
+    {
+      "date": "2019-01-06",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2019-01-07",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2019-01-09",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2019-01-10",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2019-01-11",
+      "total": 25,
+      "by_language": {
+        "C++": 4,
+        "CSS": 12,
+        "HTML": 2
+      },
+      "private": 7
+    },
+    {
+      "date": "2019-01-12",
+      "total": 3,
+      "by_language": {
+        "CSS": 3
+      }
+    },
+    {
+      "date": "2019-01-15",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2019-01-16",
+      "total": 36,
+      "by_language": {
+        "Python": 35,
+        "SCSS": 1
+      }
+    },
+    {
+      "date": "2019-01-17",
+      "total": 11,
+      "by_language": {
+        "Python": 5
+      },
+      "private": 6
+    },
+    {
+      "date": "2019-01-18",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2019-01-20",
+      "total": 13,
+      "by_language": {
+        "CSS": 1,
+        "Jupyter Notebook": 11,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2019-01-21",
+      "total": 34,
+      "by_language": {
+        "C++": 18,
+        "Jupyter Notebook": 7
+      },
+      "private": 9
+    },
+    {
+      "date": "2019-01-22",
+      "total": 19,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 13
+    },
+    {
+      "date": "2019-01-23",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2019-01-25",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2019-01-29",
+      "total": 18,
+      "by_language": {
+        "C++": 11
+      },
+      "private": 7
+    },
+    {
+      "date": "2019-02-01",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2019-02-05",
+      "total": 10,
+      "by_language": {
+        "C++": 4,
+        "Python": 2
+      },
+      "private": 4
+    },
+    {
+      "date": "2019-02-08",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2019-02-11",
+      "total": 8,
+      "by_language": {
+        "C++": 2,
+        "Jupyter Notebook": 2
+      },
+      "private": 4
+    },
+    {
+      "date": "2019-02-12",
+      "total": 12,
+      "by_language": {
+        "C++": 5,
+        "Jupyter Notebook": 2
+      },
+      "private": 5
+    },
+    {
+      "date": "2019-02-13",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2019-02-15",
+      "total": 6,
+      "by_language": {
+        "Jupyter Notebook": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-02-18",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2019-02-20",
+      "total": 3,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2019-02-21",
+      "total": 8,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2019-02-22",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2019-02-23",
+      "total": 19,
+      "by_language": {},
+      "private": 19
+    },
+    {
+      "date": "2019-02-25",
+      "total": 14,
+      "by_language": {},
+      "private": 14
+    },
+    {
+      "date": "2019-02-26",
+      "total": 21,
+      "by_language": {
+        "C++": 11
+      },
+      "private": 10
+    },
+    {
+      "date": "2019-02-27",
+      "total": 7,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 6
+    },
+    {
+      "date": "2019-02-28",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2019-03-02",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2019-03-06",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-03-07",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2019-03-27",
+      "total": 10,
+      "by_language": {
+        "C++": 5
+      },
+      "private": 5
+    },
+    {
+      "date": "2019-03-28",
+      "total": 12,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 6
+    },
+    {
+      "date": "2019-03-29",
+      "total": 11,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 5
+    },
+    {
+      "date": "2019-04-01",
+      "total": 4,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-04-02",
+      "total": 5,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 3
+    },
+    {
+      "date": "2019-04-03",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2019-04-05",
+      "total": 7,
+      "by_language": {
+        "C++": 3
+      },
+      "private": 4
+    },
+    {
+      "date": "2019-04-09",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2019-04-10",
+      "total": 62,
+      "by_language": {
+        "C++": 56,
+        "Dockerfile": 7
+      }
+    },
+    {
+      "date": "2019-04-11",
+      "total": 23,
+      "by_language": {
+        "C++": 15
+      },
+      "private": 8
+    },
+    {
+      "date": "2019-04-15",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2019-04-16",
+      "total": 8,
+      "by_language": {
+        "Python": 6
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-04-17",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2019-04-19",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2019-04-24",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2019-04-26",
+      "total": 13,
+      "by_language": {
+        "C++": 7
+      },
+      "private": 6
+    },
+    {
+      "date": "2019-04-29",
+      "total": 6,
+      "by_language": {
+        "C++": 3
+      },
+      "private": 3
+    },
+    {
+      "date": "2019-04-30",
+      "total": 4,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-05-02",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2019-05-03",
+      "total": 16,
+      "by_language": {
+        "C++": 8
+      },
+      "private": 8
+    },
+    {
+      "date": "2019-05-06",
+      "total": 9,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 7
+    },
+    {
+      "date": "2019-05-07",
+      "total": 2,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2019-05-08",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2019-05-09",
+      "total": 4,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-05-10",
+      "total": 17,
+      "by_language": {
+        "C++": 8,
+        "Python": 1
+      },
+      "private": 7
+    },
+    {
+      "date": "2019-05-13",
+      "total": 4,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-05-14",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2019-05-15",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2019-05-16",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2019-05-17",
+      "total": 5,
+      "by_language": {
+        "C++": 3
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-05-21",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2019-05-22",
+      "total": 28,
+      "by_language": {
+        "C++": 14
+      },
+      "private": 13
+    },
+    {
+      "date": "2019-05-23",
+      "total": 34,
+      "by_language": {
+        "C++": 21
+      },
+      "private": 12
+    },
+    {
+      "date": "2019-05-24",
+      "total": 37,
+      "by_language": {
+        "C++": 18,
+        "JavaScript": 1
+      },
+      "private": 17
+    },
+    {
+      "date": "2019-05-28",
+      "total": 10,
+      "by_language": {
+        "C++": 5
+      },
+      "private": 5
+    },
+    {
+      "date": "2019-05-29",
+      "total": 7,
+      "by_language": {
+        "C++": 5,
+        "HTML": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2019-06-06",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2019-06-13",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2019-06-14",
+      "total": 1,
+      "by_language": {
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2019-06-21",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2019-06-27",
+      "total": 2,
+      "by_language": {}
+    },
+    {
+      "date": "2019-07-04",
+      "total": 4,
+      "by_language": {
+        "Jupyter Notebook": 4
+      }
+    },
+    {
+      "date": "2019-07-09",
+      "total": 8,
+      "by_language": {
+        "JavaScript": 8
+      }
+    },
+    {
+      "date": "2019-07-10",
+      "total": 2,
+      "by_language": {}
+    },
+    {
+      "date": "2019-07-11",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 4
+      }
+    },
+    {
+      "date": "2019-07-12",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2019-07-16",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2019-07-18",
+      "total": 4,
+      "by_language": {
+        "JavaScript": 4
+      }
+    },
+    {
+      "date": "2019-07-19",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2019-07-25",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2019-07-26",
+      "total": 5,
+      "by_language": {
+        "C++": 3
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-07-30",
+      "total": 3,
+      "by_language": {
+        "Jupyter Notebook": 3
+      }
+    },
+    {
+      "date": "2019-07-31",
+      "total": 3,
+      "by_language": {
+        "C++": 2,
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2019-08-01",
+      "total": 3,
+      "by_language": {
+        "C++": 2,
+        "JavaScript": 1
+      }
+    },
+    {
+      "date": "2019-08-14",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2019-08-21",
+      "total": 15,
+      "by_language": {
+        "Python": 15
+      }
+    },
+    {
+      "date": "2019-08-23",
+      "total": 4,
+      "by_language": {
+        "Python": 3
+      },
+      "private": 1
+    },
+    {
+      "date": "2019-08-30",
+      "total": 3,
+      "by_language": {
+        "TeX": 3
+      }
+    },
+    {
+      "date": "2019-09-09",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2019-09-17",
+      "total": 5,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2019-09-23",
+      "total": 2,
+      "by_language": {}
+    },
+    {
+      "date": "2019-09-24",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2019-09-26",
+      "total": 3,
+      "by_language": {
+        "C++": 1,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2019-09-27",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2019-09-29",
+      "total": 5,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2019-09-30",
+      "total": 8,
+      "by_language": {
+        "C++": 5,
+        "Python": 3
+      }
+    },
+    {
+      "date": "2019-10-01",
+      "total": 4,
+      "by_language": {
+        "C++": 1,
+        "Python": 3
+      }
+    },
+    {
+      "date": "2019-10-02",
+      "total": 3,
+      "by_language": {
+        "C++": 1,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2019-10-03",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2019-10-04",
+      "total": 5,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 1
+    },
+    {
+      "date": "2019-10-08",
+      "total": 5,
+      "by_language": {
+        "C++": 5
+      }
+    },
+    {
+      "date": "2019-10-14",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2019-10-15",
+      "total": 13,
+      "by_language": {},
+      "private": 12
+    },
+    {
+      "date": "2019-10-16",
+      "total": 8,
+      "by_language": {},
+      "private": 7
+    },
+    {
+      "date": "2019-10-17",
+      "total": 11,
+      "by_language": {},
+      "private": 10
+    },
+    {
+      "date": "2019-10-18",
+      "total": 16,
+      "by_language": {},
+      "private": 15
+    },
+    {
+      "date": "2019-10-20",
+      "total": 5,
+      "by_language": {
+        "Jupyter Notebook": 1
+      },
+      "private": 4
+    },
+    {
+      "date": "2019-10-21",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2019-10-25",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2019-10-29",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2019-10-30",
+      "total": 5,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2019-11-04",
+      "total": 18,
+      "by_language": {},
+      "private": 16
+    },
+    {
+      "date": "2019-11-05",
+      "total": 10,
+      "by_language": {
+        "TeX": 10
+      }
+    },
+    {
+      "date": "2019-11-06",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2019-11-07",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2019-11-08",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2019-11-11",
+      "total": 5,
+      "by_language": {
+        "Jupyter Notebook": 2
+      },
+      "private": 3
+    },
+    {
+      "date": "2019-11-14",
+      "total": 3,
+      "by_language": {
+        "Jupyter Notebook": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-11-18",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2019-11-19",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2019-11-20",
+      "total": 31,
+      "by_language": {
+        "Python": 6
+      },
+      "private": 23
+    },
+    {
+      "date": "2019-11-21",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2019-11-22",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2019-11-24",
+      "total": 3,
+      "by_language": {
+        "Jupyter Notebook": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2019-11-25",
+      "total": 6,
+      "by_language": {
+        "HTML": 3,
+        "JavaScript": 3
+      }
+    },
+    {
+      "date": "2019-11-26",
+      "total": 4,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 3
+    },
+    {
+      "date": "2019-11-27",
+      "total": 10,
+      "by_language": {
+        "HTML": 8
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-11-28",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2019-12-03",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2019-12-04",
+      "total": 4,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2019-12-06",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2019-12-10",
+      "total": 4,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2019-12-17",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2019-12-18",
+      "total": 22,
+      "by_language": {
+        "C++": 22
+      }
+    },
+    {
+      "date": "2019-12-21",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2019-12-24",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2020-01-05",
+      "total": 2,
+      "by_language": {
+        "TeX": 2
+      }
+    },
+    {
+      "date": "2020-01-14",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2020-01-15",
+      "total": 5,
+      "by_language": {
+        "C++": 5
+      }
+    },
+    {
+      "date": "2020-01-16",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2020-01-17",
+      "total": 19,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 16
+    },
+    {
+      "date": "2020-01-18",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2020-01-19",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2020-01-21",
+      "total": 33,
+      "by_language": {
+        "Python": 6
+      },
+      "private": 25
+    },
+    {
+      "date": "2020-01-22",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2020-01-24",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2020-01-28",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2020-01-30",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2020-01-31",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2020-02-03",
+      "total": 8,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 5
+    },
+    {
+      "date": "2020-02-04",
+      "total": 4,
+      "by_language": {
+        "C++": 3,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2020-02-10",
+      "total": 2,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2020-02-11",
+      "total": 3,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2020-02-14",
+      "total": 1,
+      "by_language": {
+        "TeX": 1
+      }
+    },
+    {
+      "date": "2020-02-17",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2020-02-18",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2020-02-21",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2020-02-26",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2020-03-02",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2020-03-03",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2020-03-06",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2020-03-10",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2020-03-11",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2020-03-16",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2020-03-17",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2020-03-25",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2020-03-27",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2020-03-30",
+      "total": 6,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2020-04-01",
+      "total": 7,
+      "by_language": {
+        "C++": 6,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2020-04-03",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2020-04-06",
+      "total": 5,
+      "by_language": {
+        "C++": 5
+      }
+    },
+    {
+      "date": "2020-04-07",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2020-04-08",
+      "total": 9,
+      "by_language": {
+        "TypeScript": 1
+      },
+      "private": 8
+    },
+    {
+      "date": "2020-04-09",
+      "total": 7,
+      "by_language": {
+        "C++": 7
+      }
+    },
+    {
+      "date": "2020-04-10",
+      "total": 16,
+      "by_language": {
+        "Python": 9
+      },
+      "private": 7
+    },
+    {
+      "date": "2020-04-13",
+      "total": 4,
+      "by_language": {
+        "C++": 2,
+        "Ruby": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2020-04-14",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "Makefile": 3
+      }
+    },
+    {
+      "date": "2020-04-23",
+      "total": 3,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2020-04-27",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2020-04-29",
+      "total": 12,
+      "by_language": {
+        "C++": 12
+      }
+    },
+    {
+      "date": "2020-05-08",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2020-05-11",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2020-05-12",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2020-05-13",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2020-05-14",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2020-05-18",
+      "total": 7,
+      "by_language": {
+        "C++": 5
+      },
+      "private": 2
+    },
+    {
+      "date": "2020-05-21",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2020-05-22",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2020-05-26",
+      "total": 7,
+      "by_language": {
+        "Jupyter Notebook": 7
+      }
+    },
+    {
+      "date": "2020-05-27",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2020-06-08",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2020-06-11",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2020-06-12",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2020-06-15",
+      "total": 5,
+      "by_language": {
+        "C++": 5
+      }
+    },
+    {
+      "date": "2020-06-16",
+      "total": 10,
+      "by_language": {
+        "C++": 10
+      }
+    },
+    {
+      "date": "2020-06-17",
+      "total": 4,
+      "by_language": {
+        "C++": 2,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2020-06-18",
+      "total": 18,
+      "by_language": {
+        "C++": 17,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2020-06-19",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2020-06-23",
+      "total": 9,
+      "by_language": {
+        "C++": 9
+      }
+    },
+    {
+      "date": "2020-06-27",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2020-06-29",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2020-07-01",
+      "total": 3,
+      "by_language": {
+        "Jupyter Notebook": 3
+      }
+    },
+    {
+      "date": "2020-07-06",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2020-07-10",
+      "total": 10,
+      "by_language": {
+        "C++": 5
+      },
+      "private": 5
+    },
+    {
+      "date": "2020-07-13",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2020-07-18",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2020-07-29",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2020-07-30",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2020-08-03",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2020-08-05",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2020-08-06",
+      "total": 16,
+      "by_language": {
+        "Python": 16
+      }
+    },
+    {
+      "date": "2020-08-08",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2020-08-11",
+      "total": 11,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 9
+    },
+    {
+      "date": "2020-08-12",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2020-08-13",
+      "total": 10,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2020-08-14",
+      "total": 5,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2020-08-31",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2020-09-04",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2020-09-09",
+      "total": 22,
+      "by_language": {
+        "C++": 19
+      },
+      "private": 3
+    },
+    {
+      "date": "2020-09-14",
+      "total": 52,
+      "by_language": {
+        "C++": 52
+      }
+    },
+    {
+      "date": "2020-09-15",
+      "total": 9,
+      "by_language": {
+        "C++": 5
+      },
+      "private": 4
+    },
+    {
+      "date": "2020-09-16",
+      "total": 2,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2020-09-17",
+      "total": 2,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2020-09-22",
+      "total": 10,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2020-09-23",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2020-09-24",
+      "total": 10,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2020-09-25",
+      "total": 14,
+      "by_language": {},
+      "private": 13
+    },
+    {
+      "date": "2020-09-28",
+      "total": 12,
+      "by_language": {
+        "Jupyter Notebook": 1
+      },
+      "private": 10
+    },
+    {
+      "date": "2020-10-06",
+      "total": 7,
+      "by_language": {},
+      "private": 7
+    },
+    {
+      "date": "2020-10-07",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2020-10-08",
+      "total": 7,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 6
+    },
+    {
+      "date": "2020-10-09",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2020-10-19",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2020-10-28",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2020-11-05",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2020-11-09",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2020-11-12",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2020-11-17",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2020-11-23",
+      "total": 9,
+      "by_language": {
+        "Python": 5
+      },
+      "private": 4
+    },
+    {
+      "date": "2020-11-24",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2020-11-30",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2020-12-02",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2020-12-14",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2020-12-15",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2020-12-16",
+      "total": 10,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2020-12-17",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2021-01-06",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2021-01-11",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2021-01-18",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-01-19",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-01-22",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2021-01-24",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-01-25",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-01-26",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-01-28",
+      "total": 11,
+      "by_language": {},
+      "private": 11
+    },
+    {
+      "date": "2021-01-29",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2021-02-02",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-02-15",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-02-19",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-02-25",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-02-26",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-03-01",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-03-09",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2021-03-12",
+      "total": 4,
+      "by_language": {
+        "HTML": 2,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2021-03-15",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-03-16",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-03-17",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-03-23",
+      "total": 54,
+      "by_language": {},
+      "private": 53
+    },
+    {
+      "date": "2021-03-25",
+      "total": 9,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2021-03-26",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-04-20",
+      "total": 4,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2021-04-26",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-04-27",
+      "total": 11,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2021-04-28",
+      "total": 15,
+      "by_language": {},
+      "private": 13
+    },
+    {
+      "date": "2021-04-29",
+      "total": 11,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 8
+    },
+    {
+      "date": "2021-04-30",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2021-05-04",
+      "total": 12,
+      "by_language": {},
+      "private": 10
+    },
+    {
+      "date": "2021-05-05",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-05-06",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2021-05-11",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-05-14",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2021-05-17",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2021-05-18",
+      "total": 3,
+      "by_language": {
+        "Makefile": 2,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2021-05-20",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-05-21",
+      "total": 6,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2021-05-25",
+      "total": 2,
+      "by_language": {
+        "CSS": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2021-05-27",
+      "total": 6,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2021-06-01",
+      "total": 3,
+      "by_language": {
+        "Makefile": 3
+      }
+    },
+    {
+      "date": "2021-06-02",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-06-08",
+      "total": 5,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2021-06-09",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-06-10",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-06-11",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2021-06-14",
+      "total": 5,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2021-06-18",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-06-22",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2021-06-24",
+      "total": 2,
+      "by_language": {
+        "Ruby": 2
+      }
+    },
+    {
+      "date": "2021-06-29",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2021-07-01",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2021-07-22",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2021-07-23",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2021-08-12",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-08-26",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-08-27",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2021-09-04",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-09-07",
+      "total": 6,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2021-09-08",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-09-09",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-09-15",
+      "total": 4,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2021-09-20",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-09-21",
+      "total": 4,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2021-09-22",
+      "total": 39,
+      "by_language": {
+        "Python": 21
+      },
+      "private": 16
+    },
+    {
+      "date": "2021-09-23",
+      "total": 4,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 3
+    },
+    {
+      "date": "2021-09-24",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2021-09-27",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-09-28",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2021-10-01",
+      "total": 2,
+      "by_language": {}
+    },
+    {
+      "date": "2021-10-02",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2021-10-08",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2021-10-13",
+      "total": 5,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2021-10-18",
+      "total": 36,
+      "by_language": {
+        "Python": 36
+      }
+    },
+    {
+      "date": "2021-10-20",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-10-21",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-10-22",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2021-10-25",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-10-27",
+      "total": 14,
+      "by_language": {
+        "Python": 12
+      },
+      "private": 2
+    },
+    {
+      "date": "2021-10-28",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-11-05",
+      "total": 6,
+      "by_language": {
+        "HTML": 2
+      },
+      "private": 4
+    },
+    {
+      "date": "2021-11-08",
+      "total": 3,
+      "by_language": {
+        "HTML": 3
+      }
+    },
+    {
+      "date": "2021-11-12",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2021-11-15",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2021-11-17",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2021-11-19",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2021-11-22",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2021-11-23",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2021-11-24",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-11-26",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2021-12-02",
+      "total": 5,
+      "by_language": {
+        "Python": 4
+      },
+      "private": 1
+    },
+    {
+      "date": "2021-12-03",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2021-12-06",
+      "total": 3,
+      "by_language": {
+        "HTML": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2021-12-07",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2021-12-08",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2021-12-09",
+      "total": 15,
+      "by_language": {
+        "Python": 15
+      }
+    },
+    {
+      "date": "2021-12-13",
+      "total": 2,
+      "by_language": {
+        "HTML": 1,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2021-12-15",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2021-12-16",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2021-12-17",
+      "total": 5,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2021-12-20",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2022-01-05",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-01-06",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-01-10",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2022-01-12",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2022-01-13",
+      "total": 2,
+      "by_language": {
+        "Jupyter Notebook": 2
+      }
+    },
+    {
+      "date": "2022-01-14",
+      "total": 13,
+      "by_language": {
+        "HTML": 6
+      },
+      "private": 7
+    },
+    {
+      "date": "2022-01-17",
+      "total": 5,
+      "by_language": {
+        "HTML": 2
+      },
+      "private": 3
+    },
+    {
+      "date": "2022-01-22",
+      "total": 3,
+      "by_language": {
+        "Jupyter Notebook": 3
+      }
+    },
+    {
+      "date": "2022-01-25",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2022-01-28",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2022-01-31",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2022-02-02",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-02-03",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-02-23",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-03-03",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-03-04",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2022-03-07",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-03-08",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-03-09",
+      "total": 3,
+      "by_language": {
+        "HTML": 1,
+        "Python": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2022-03-10",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2022-03-14",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-04-04",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2022-04-05",
+      "total": 14,
+      "by_language": {
+        "Python": 5
+      },
+      "private": 9
+    },
+    {
+      "date": "2022-04-07",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-04-08",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2022-04-11",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2022-04-12",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2022-04-14",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-04-16",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2022-04-18",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-04-21",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2022-04-26",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-04-27",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-05-02",
+      "total": 3,
+      "by_language": {
+        "C++": 1,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2022-05-03",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2022-05-04",
+      "total": 7,
+      "by_language": {},
+      "private": 7
+    },
+    {
+      "date": "2022-05-05",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2022-05-06",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2022-05-07",
+      "total": 2,
+      "by_language": {
+        "HTML": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2022-05-09",
+      "total": 6,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 4
+    },
+    {
+      "date": "2022-05-10",
+      "total": 12,
+      "by_language": {
+        "Python": 12
+      }
+    },
+    {
+      "date": "2022-05-11",
+      "total": 9,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2022-05-12",
+      "total": 15,
+      "by_language": {
+        "Python": 15
+      }
+    },
+    {
+      "date": "2022-05-13",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2022-05-16",
+      "total": 15,
+      "by_language": {
+        "Python": 14
+      },
+      "private": 1
+    },
+    {
+      "date": "2022-05-17",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2022-05-24",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-05-25",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2022-05-27",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-05-31",
+      "total": 17,
+      "by_language": {
+        "Python": 8
+      },
+      "private": 9
+    },
+    {
+      "date": "2022-06-01",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-06-27",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-06-29",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2022-07-01",
+      "total": 6,
+      "by_language": {
+        "HTML": 5
+      },
+      "private": 1
+    },
+    {
+      "date": "2022-07-02",
+      "total": 13,
+      "by_language": {},
+      "private": 12
+    },
+    {
+      "date": "2022-07-04",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-07-08",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2022-07-12",
+      "total": 9,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2022-07-14",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2022-07-18",
+      "total": 7,
+      "by_language": {},
+      "private": 7
+    },
+    {
+      "date": "2022-07-19",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2022-07-20",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-07-21",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-08-18",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-08-19",
+      "total": 8,
+      "by_language": {
+        "C++": 1,
+        "HTML": 7
+      }
+    },
+    {
+      "date": "2022-08-25",
+      "total": 4,
+      "by_language": {
+        "Jupyter Notebook": 4
+      }
+    },
+    {
+      "date": "2022-09-05",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2022-09-06",
+      "total": 9,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2022-09-07",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-09-08",
+      "total": 7,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2022-09-10",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2022-09-15",
+      "total": 15,
+      "by_language": {},
+      "private": 14
+    },
+    {
+      "date": "2022-09-23",
+      "total": 15,
+      "by_language": {},
+      "private": 14
+    },
+    {
+      "date": "2022-09-27",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-09-28",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2022-10-03",
+      "total": 28,
+      "by_language": {
+        "Python": 10
+      },
+      "private": 18
+    },
+    {
+      "date": "2022-10-04",
+      "total": 2,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2022-10-06",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2022-10-07",
+      "total": 12,
+      "by_language": {
+        "Python": 4
+      },
+      "private": 8
+    },
+    {
+      "date": "2022-10-10",
+      "total": 11,
+      "by_language": {},
+      "private": 11
+    },
+    {
+      "date": "2022-10-12",
+      "total": 10,
+      "by_language": {},
+      "private": 10
+    },
+    {
+      "date": "2022-10-13",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-10-14",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-10-17",
+      "total": 12,
+      "by_language": {
+        "HTML": 1
+      },
+      "private": 11
+    },
+    {
+      "date": "2022-10-18",
+      "total": 13,
+      "by_language": {},
+      "private": 13
+    },
+    {
+      "date": "2022-10-22",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-10-24",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-10-25",
+      "total": 7,
+      "by_language": {},
+      "private": 7
+    },
+    {
+      "date": "2022-10-26",
+      "total": 8,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2022-10-28",
+      "total": 15,
+      "by_language": {},
+      "private": 15
+    },
+    {
+      "date": "2022-10-29",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-10-31",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-11-15",
+      "total": 11,
+      "by_language": {
+        "HTML": 4
+      },
+      "private": 7
+    },
+    {
+      "date": "2022-11-17",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-11-22",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2022-11-23",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2022-11-25",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2022-11-28",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2022-11-29",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2022-12-09",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2023-01-25",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-02-13",
+      "total": 12,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 11
+    },
+    {
+      "date": "2023-02-14",
+      "total": 15,
+      "by_language": {},
+      "private": 15
+    },
+    {
+      "date": "2023-02-28",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2023-03-01",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2023-03-02",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2023-03-03",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2023-03-13",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-03-17",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-03-21",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2023-03-31",
+      "total": 4,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2023-04-01",
+      "total": 9,
+      "by_language": {}
+    },
+    {
+      "date": "2023-04-13",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2023-04-18",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-05-15",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2023-05-16",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2023-06-18",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2023-06-19",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-06-20",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2023-06-26",
+      "total": 12,
+      "by_language": {},
+      "private": 12
+    },
+    {
+      "date": "2023-06-28",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2023-06-30",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2023-07-06",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-07-10",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2023-07-17",
+      "total": 11,
+      "by_language": {},
+      "private": 11
+    },
+    {
+      "date": "2023-07-18",
+      "total": 20,
+      "by_language": {},
+      "private": 19
+    },
+    {
+      "date": "2023-07-21",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2023-08-11",
+      "total": 18,
+      "by_language": {},
+      "private": 17
+    },
+    {
+      "date": "2023-08-12",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2023-08-13",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-08-14",
+      "total": 11,
+      "by_language": {},
+      "private": 10
+    },
+    {
+      "date": "2023-08-15",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2023-08-16",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-08-17",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2023-08-18",
+      "total": 7,
+      "by_language": {},
+      "private": 7
+    },
+    {
+      "date": "2023-08-22",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2023-08-23",
+      "total": 8,
+      "by_language": {
+        "Python": 4
+      },
+      "private": 4
+    },
+    {
+      "date": "2023-08-24",
+      "total": 3,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2023-08-25",
+      "total": 13,
+      "by_language": {
+        "C++": 7,
+        "Jupyter Notebook": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2023-08-28",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-08-29",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2023-08-30",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2023-09-01",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2023-09-02",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2023-09-05",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2023-09-06",
+      "total": 18,
+      "by_language": {
+        "C++": 9,
+        "Python": 9
+      }
+    },
+    {
+      "date": "2023-09-08",
+      "total": 5,
+      "by_language": {
+        "Python": 4
+      },
+      "private": 1
+    },
+    {
+      "date": "2023-09-11",
+      "total": 24,
+      "by_language": {
+        "C++": 3,
+        "Python": 1
+      },
+      "private": 19
+    },
+    {
+      "date": "2023-09-12",
+      "total": 4,
+      "by_language": {
+        "C++": 3
+      },
+      "private": 1
+    },
+    {
+      "date": "2023-09-13",
+      "total": 9,
+      "by_language": {
+        "Python": 3
+      },
+      "private": 6
+    },
+    {
+      "date": "2023-09-14",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2023-09-15",
+      "total": 16,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 14
+    },
+    {
+      "date": "2023-09-16",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2023-09-17",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-09-19",
+      "total": 6,
+      "by_language": {
+        "C++": 5
+      },
+      "private": 1
+    },
+    {
+      "date": "2023-09-20",
+      "total": 15,
+      "by_language": {
+        "C++": 14
+      },
+      "private": 1
+    },
+    {
+      "date": "2023-09-21",
+      "total": 8,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2023-09-22",
+      "total": 8,
+      "by_language": {
+        "C++": 8
+      }
+    },
+    {
+      "date": "2023-09-23",
+      "total": 10,
+      "by_language": {},
+      "private": 10
+    },
+    {
+      "date": "2023-09-25",
+      "total": 16,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 10
+    },
+    {
+      "date": "2023-09-26",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2023-09-29",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2023-10-04",
+      "total": 5,
+      "by_language": {
+        "C++": 5
+      }
+    },
+    {
+      "date": "2023-10-05",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2023-10-06",
+      "total": 14,
+      "by_language": {
+        "C++": 2,
+        "Python": 12
+      }
+    },
+    {
+      "date": "2023-10-09",
+      "total": 8,
+      "by_language": {
+        "C++": 7,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-10-11",
+      "total": 19,
+      "by_language": {
+        "C++": 12,
+        "Python": 7
+      }
+    },
+    {
+      "date": "2023-10-13",
+      "total": 7,
+      "by_language": {
+        "C++": 2,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2023-10-16",
+      "total": 19,
+      "by_language": {
+        "C++": 19
+      }
+    },
+    {
+      "date": "2023-10-18",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2023-10-19",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-10-20",
+      "total": 29,
+      "by_language": {
+        "C++": 5,
+        "Python": 24
+      }
+    },
+    {
+      "date": "2023-10-23",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2023-10-24",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2023-10-26",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-10-27",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-10-30",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2023-10-31",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-11-01",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2023-11-02",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2023-11-03",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2023-11-08",
+      "total": 20,
+      "by_language": {
+        "C++": 20
+      }
+    },
+    {
+      "date": "2023-11-13",
+      "total": 6,
+      "by_language": {
+        "C++": 1,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2023-11-14",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2023-11-15",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2023-11-16",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2023-11-17",
+      "total": 23,
+      "by_language": {
+        "Python": 12
+      }
+    },
+    {
+      "date": "2023-11-20",
+      "total": 11,
+      "by_language": {
+        "C++": 3,
+        "Python": 8
+      }
+    },
+    {
+      "date": "2023-11-21",
+      "total": 10,
+      "by_language": {
+        "C++": 8,
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2023-11-22",
+      "total": 13,
+      "by_language": {
+        "C++": 4,
+        "Python": 4
+      }
+    },
+    {
+      "date": "2023-11-23",
+      "total": 10,
+      "by_language": {
+        "C++": 10
+      }
+    },
+    {
+      "date": "2023-11-24",
+      "total": 13,
+      "by_language": {
+        "C++": 13
+      }
+    },
+    {
+      "date": "2023-11-25",
+      "total": 8,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2023-11-27",
+      "total": 4,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2023-11-28",
+      "total": 18,
+      "by_language": {
+        "C++": 18
+      }
+    },
+    {
+      "date": "2023-11-29",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2023-12-05",
+      "total": 16,
+      "by_language": {
+        "C++": 6,
+        "Python": 10
+      }
+    },
+    {
+      "date": "2023-12-07",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2023-12-08",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2023-12-22",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2024-01-12",
+      "total": 4,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2024-01-15",
+      "total": 3,
+      "by_language": {
+        "C++": 1,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2024-01-16",
+      "total": 14,
+      "by_language": {
+        "C++": 2,
+        "HTML": 11
+      }
+    },
+    {
+      "date": "2024-01-17",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2024-01-19",
+      "total": 18,
+      "by_language": {
+        "C++": 3,
+        "HTML": 15
+      }
+    },
+    {
+      "date": "2024-01-22",
+      "total": 4,
+      "by_language": {
+        "HTML": 4
+      }
+    },
+    {
+      "date": "2024-01-23",
+      "total": 14,
+      "by_language": {
+        "C++": 14
+      }
+    },
+    {
+      "date": "2024-01-25",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2024-01-26",
+      "total": 9,
+      "by_language": {
+        "C++": 7
+      },
+      "private": 2
+    },
+    {
+      "date": "2024-01-29",
+      "total": 10,
+      "by_language": {
+        "C++": 5,
+        "HTML": 4
+      },
+      "private": 1
+    },
+    {
+      "date": "2024-01-30",
+      "total": 19,
+      "by_language": {
+        "C++": 8,
+        "Python": 3
+      },
+      "private": 7
+    },
+    {
+      "date": "2024-01-31",
+      "total": 16,
+      "by_language": {},
+      "private": 13
+    },
+    {
+      "date": "2024-02-02",
+      "total": 6,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 2
+    },
+    {
+      "date": "2024-02-05",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2024-02-06",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2024-02-07",
+      "total": 13,
+      "by_language": {
+        "Python": 5
+      },
+      "private": 7
+    },
+    {
+      "date": "2024-02-08",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-02-09",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2024-02-12",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2024-02-13",
+      "total": 2,
+      "by_language": {
+        "HTML": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2024-02-14",
+      "total": 11,
+      "by_language": {
+        "C++": 7,
+        "HTML": 4
+      }
+    },
+    {
+      "date": "2024-02-16",
+      "total": 8,
+      "by_language": {
+        "C++": 8
+      }
+    },
+    {
+      "date": "2024-02-19",
+      "total": 3,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2024-02-20",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2024-02-21",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-02-22",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2024-02-23",
+      "total": 5,
+      "by_language": {
+        "C++": 3
+      },
+      "private": 2
+    },
+    {
+      "date": "2024-02-27",
+      "total": 11,
+      "by_language": {
+        "C++": 9
+      },
+      "private": 2
+    },
+    {
+      "date": "2024-02-28",
+      "total": 13,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 10
+    },
+    {
+      "date": "2024-02-29",
+      "total": 28,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 22
+    },
+    {
+      "date": "2024-03-01",
+      "total": 33,
+      "by_language": {
+        "C++": 7
+      },
+      "private": 22
+    },
+    {
+      "date": "2024-03-03",
+      "total": 21,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 17
+    },
+    {
+      "date": "2024-03-05",
+      "total": 18,
+      "by_language": {},
+      "private": 15
+    },
+    {
+      "date": "2024-03-06",
+      "total": 14,
+      "by_language": {},
+      "private": 12
+    },
+    {
+      "date": "2024-03-10",
+      "total": 2,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-03-12",
+      "total": 14,
+      "by_language": {
+        "C++": 3
+      },
+      "private": 9
+    },
+    {
+      "date": "2024-03-13",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-03-14",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2024-03-18",
+      "total": 11,
+      "by_language": {
+        "Python": 11
+      }
+    },
+    {
+      "date": "2024-03-26",
+      "total": 19,
+      "by_language": {
+        "C++": 10
+      }
+    },
+    {
+      "date": "2024-03-27",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2024-03-28",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2024-04-08",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2024-04-09",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2024-04-10",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2024-04-11",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2024-04-22",
+      "total": 8,
+      "by_language": {
+        "C++": 8
+      }
+    },
+    {
+      "date": "2024-04-23",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2024-04-29",
+      "total": 23,
+      "by_language": {
+        "C++": 3
+      },
+      "private": 20
+    },
+    {
+      "date": "2024-04-30",
+      "total": 69,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 67
+    },
+    {
+      "date": "2024-05-01",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2024-05-02",
+      "total": 41,
+      "by_language": {
+        "Python": 5
+      },
+      "private": 36
+    },
+    {
+      "date": "2024-05-03",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-05-05",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2024-05-06",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-05-07",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-05-08",
+      "total": 12,
+      "by_language": {
+        "C++": 1,
+        "Python": 3
+      },
+      "private": 8
+    },
+    {
+      "date": "2024-05-09",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2024-05-14",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2024-05-15",
+      "total": 6,
+      "by_language": {
+        "C++": 3,
+        "Python": 3
+      }
+    },
+    {
+      "date": "2024-05-16",
+      "total": 14,
+      "by_language": {
+        "Python": 11
+      },
+      "private": 3
+    },
+    {
+      "date": "2024-05-17",
+      "total": 18,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 16
+    },
+    {
+      "date": "2024-05-24",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2024-05-29",
+      "total": 12,
+      "by_language": {
+        "Python": 11
+      },
+      "private": 1
+    },
+    {
+      "date": "2024-06-05",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2024-06-06",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2024-06-13",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2024-06-14",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2024-06-19",
+      "total": 5,
+      "by_language": {
+        "C++": 5
+      }
+    },
+    {
+      "date": "2024-06-20",
+      "total": 19,
+      "by_language": {
+        "C++": 11
+      }
+    },
+    {
+      "date": "2024-06-21",
+      "total": 3,
+      "by_language": {
+        "HTML": 3
+      }
+    },
+    {
+      "date": "2024-06-23",
+      "total": 14,
+      "by_language": {
+        "Python": 14
+      }
+    },
+    {
+      "date": "2024-06-24",
+      "total": 5,
+      "by_language": {
+        "C++": 1,
+        "Python": 4
+      }
+    },
+    {
+      "date": "2024-06-25",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2024-06-26",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2024-06-27",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2024-06-28",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2024-07-01",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2024-07-02",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2024-07-06",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2024-07-08",
+      "total": 11,
+      "by_language": {
+        "C++": 6,
+        "HTML": 5
+      }
+    },
+    {
+      "date": "2024-07-09",
+      "total": 25,
+      "by_language": {
+        "C++": 3,
+        "HTML": 4,
+        "Python": 18
+      }
+    },
+    {
+      "date": "2024-07-10",
+      "total": 11,
+      "by_language": {
+        "C++": 11
+      }
+    },
+    {
+      "date": "2024-07-11",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2024-07-12",
+      "total": 20,
+      "by_language": {
+        "C++": 2,
+        "HTML": 2,
+        "Python": 16
+      }
+    },
+    {
+      "date": "2024-07-15",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-07-17",
+      "total": 21,
+      "by_language": {
+        "C++": 21
+      }
+    },
+    {
+      "date": "2024-07-18",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "HTML": 3
+      }
+    },
+    {
+      "date": "2024-07-22",
+      "total": 25,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2024-07-24",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2024-07-25",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2024-07-26",
+      "total": 1,
+      "by_language": {
+        "C": 1
+      }
+    },
+    {
+      "date": "2024-07-30",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2024-07-31",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2024-08-01",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2024-08-06",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2024-09-11",
+      "total": 16,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-09-17",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2024-09-21",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2024-09-27",
+      "total": 11,
+      "by_language": {
+        "C++": 11
+      }
+    },
+    {
+      "date": "2024-09-30",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2024-10-03",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2024-10-04",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2024-10-07",
+      "total": 19,
+      "by_language": {
+        "Python": 19
+      }
+    },
+    {
+      "date": "2024-10-10",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-10-17",
+      "total": 4,
+      "by_language": {},
+      "private": 4
+    },
+    {
+      "date": "2024-10-18",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2024-10-29",
+      "total": 10,
+      "by_language": {
+        "Python": 10
+      }
+    },
+    {
+      "date": "2024-10-31",
+      "total": 30,
+      "by_language": {
+        "Python": 30
+      }
+    },
+    {
+      "date": "2024-11-02",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-11-04",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-11-06",
+      "total": 19,
+      "by_language": {
+        "Python": 9
+      },
+      "private": 10
+    },
+    {
+      "date": "2024-11-07",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2024-11-08",
+      "total": 16,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 15
+    },
+    {
+      "date": "2024-11-09",
+      "total": 9,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2024-11-13",
+      "total": 13,
+      "by_language": {
+        "Python": 4
+      },
+      "private": 9
+    },
+    {
+      "date": "2024-11-14",
+      "total": 51,
+      "by_language": {
+        "Python": 18
+      },
+      "private": 33
+    },
+    {
+      "date": "2024-11-15",
+      "total": 19,
+      "by_language": {},
+      "private": 19
+    },
+    {
+      "date": "2024-11-17",
+      "total": 2,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2024-11-18",
+      "total": 85,
+      "by_language": {
+        "Python": 26
+      },
+      "private": 58
+    },
+    {
+      "date": "2024-11-19",
+      "total": 52,
+      "by_language": {
+        "Python": 3
+      },
+      "private": 49
+    },
+    {
+      "date": "2024-11-20",
+      "total": 22,
+      "by_language": {},
+      "private": 22
+    },
+    {
+      "date": "2024-11-21",
+      "total": 4,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2024-11-22",
+      "total": 13,
+      "by_language": {},
+      "private": 13
+    },
+    {
+      "date": "2024-11-27",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2024-11-28",
+      "total": 40,
+      "by_language": {},
+      "private": 40
+    },
+    {
+      "date": "2024-11-29",
+      "total": 101,
+      "by_language": {},
+      "private": 100
+    },
+    {
+      "date": "2024-12-03",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2024-12-04",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2024-12-09",
+      "total": 20,
+      "by_language": {
+        "Python": 11
+      },
+      "private": 9
+    },
+    {
+      "date": "2024-12-10",
+      "total": 18,
+      "by_language": {
+        "C++": 6,
+        "Python": 1
+      },
+      "private": 11
+    },
+    {
+      "date": "2024-12-11",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2024-12-12",
+      "total": 34,
+      "by_language": {},
+      "private": 34
+    },
+    {
+      "date": "2024-12-13",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2024-12-19",
+      "total": 65,
+      "by_language": {
+        "Python": 34
+      },
+      "private": 31
+    },
+    {
+      "date": "2024-12-21",
+      "total": 3,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2024-12-24",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2024-12-28",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2025-01-03",
+      "total": 22,
+      "by_language": {
+        "TeX": 22
+      }
+    },
+    {
+      "date": "2025-01-04",
+      "total": 17,
+      "by_language": {
+        "TeX": 17
+      }
+    },
+    {
+      "date": "2025-01-06",
+      "total": 13,
+      "by_language": {
+        "Python": 13
+      }
+    },
+    {
+      "date": "2025-01-07",
+      "total": 5,
+      "by_language": {},
+      "private": 5
+    },
+    {
+      "date": "2025-01-09",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2025-01-14",
+      "total": 23,
+      "by_language": {
+        "C++": 23
+      }
+    },
+    {
+      "date": "2025-01-15",
+      "total": 10,
+      "by_language": {
+        "C++": 10
+      }
+    },
+    {
+      "date": "2025-01-16",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2025-01-17",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2025-01-28",
+      "total": 8,
+      "by_language": {
+        "C++": 8
+      }
+    },
+    {
+      "date": "2025-01-29",
+      "total": 7,
+      "by_language": {
+        "C++": 2,
+        "HTML": 5
+      }
+    },
+    {
+      "date": "2025-01-31",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2025-02-04",
+      "total": 9,
+      "by_language": {
+        "C++": 3,
+        "HTML": 1
+      },
+      "private": 5
+    },
+    {
+      "date": "2025-02-06",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "Python": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2025-02-07",
+      "total": 6,
+      "by_language": {
+        "C++": 1,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2025-02-08",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2025-02-10",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-02-12",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2025-02-13",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-02-17",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2025-02-18",
+      "total": 3,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 1
+    },
+    {
+      "date": "2025-02-19",
+      "total": 8,
+      "by_language": {
+        "C++": 5
+      },
+      "private": 3
+    },
+    {
+      "date": "2025-02-21",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2025-02-24",
+      "total": 3,
+      "by_language": {
+        "C++": 2,
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2025-02-25",
+      "total": 8,
+      "by_language": {
+        "C++": 7,
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2025-02-27",
+      "total": 11,
+      "by_language": {
+        "C++": 5
+      },
+      "private": 6
+    },
+    {
+      "date": "2025-03-01",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2025-03-03",
+      "total": 7,
+      "by_language": {
+        "C++": 7
+      }
+    },
+    {
+      "date": "2025-03-04",
+      "total": 58,
+      "by_language": {
+        "C++": 2
+      },
+      "private": 56
+    },
+    {
+      "date": "2025-03-05",
+      "total": 10,
+      "by_language": {
+        "C++": 10
+      }
+    },
+    {
+      "date": "2025-03-06",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2025-03-07",
+      "total": 16,
+      "by_language": {
+        "C++": 16
+      }
+    },
+    {
+      "date": "2025-03-10",
+      "total": 25,
+      "by_language": {
+        "C++": 18,
+        "Python": 7
+      }
+    },
+    {
+      "date": "2025-03-11",
+      "total": 62,
+      "by_language": {
+        "C++": 6
+      },
+      "private": 56
+    },
+    {
+      "date": "2025-03-14",
+      "total": 12,
+      "by_language": {
+        "Python": 12
+      }
+    },
+    {
+      "date": "2025-03-17",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2025-03-20",
+      "total": 80,
+      "by_language": {},
+      "private": 79
+    },
+    {
+      "date": "2025-03-21",
+      "total": 124,
+      "by_language": {
+        "HTML": 5
+      },
+      "private": 118
+    },
+    {
+      "date": "2025-03-22",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2025-03-24",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-03-25",
+      "total": 57,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 56
+    },
+    {
+      "date": "2025-03-26",
+      "total": 8,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2025-03-27",
+      "total": 10,
+      "by_language": {
+        "Python": 10
+      }
+    },
+    {
+      "date": "2025-03-28",
+      "total": 6,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2025-04-02",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-04-07",
+      "total": 11,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 9
+    },
+    {
+      "date": "2025-04-08",
+      "total": 55,
+      "by_language": {},
+      "private": 55
+    },
+    {
+      "date": "2025-04-09",
+      "total": 11,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 9
+    },
+    {
+      "date": "2025-04-13",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2025-04-15",
+      "total": 73,
+      "by_language": {
+        "Python": 17
+      },
+      "private": 56
+    },
+    {
+      "date": "2025-04-16",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2025-04-22",
+      "total": 62,
+      "by_language": {
+        "Python": 6
+      },
+      "private": 56
+    },
+    {
+      "date": "2025-04-24",
+      "total": 9,
+      "by_language": {
+        "Python": 9
+      }
+    },
+    {
+      "date": "2025-05-03",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2025-05-05",
+      "total": 16,
+      "by_language": {
+        "C++": 8,
+        "Python": 8
+      }
+    },
+    {
+      "date": "2025-05-06",
+      "total": 8,
+      "by_language": {
+        "C++": 3,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2025-05-07",
+      "total": 4,
+      "by_language": {
+        "C++": 3,
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2025-05-08",
+      "total": 6,
+      "by_language": {
+        "C++": 5,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-05-09",
+      "total": 21,
+      "by_language": {
+        "Python": 21
+      }
+    },
+    {
+      "date": "2025-05-10",
+      "total": 8,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2025-05-14",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2025-05-16",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2025-05-17",
+      "total": 4,
+      "by_language": {
+        "HTML": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2025-05-20",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-05-23",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2025-05-27",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2025-05-28",
+      "total": 14,
+      "by_language": {
+        "C++": 13,
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2025-06-02",
+      "total": 2,
+      "by_language": {
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2025-06-05",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2025-06-06",
+      "total": 9,
+      "by_language": {
+        "C++": 9
+      }
+    },
+    {
+      "date": "2025-06-10",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-06-11",
+      "total": 9,
+      "by_language": {
+        "C++": 4,
+        "HTML": 1,
+        "Python": 4
+      }
+    },
+    {
+      "date": "2025-06-17",
+      "total": 8,
+      "by_language": {
+        "C++": 4,
+        "Python": 4
+      }
+    },
+    {
+      "date": "2025-06-22",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2025-06-24",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2025-07-04",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2025-07-07",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2025-07-08",
+      "total": 5,
+      "by_language": {
+        "C++": 4,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-07-09",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2025-07-31",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2025-08-04",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2025-08-05",
+      "total": 11,
+      "by_language": {},
+      "private": 11
+    },
+    {
+      "date": "2025-08-07",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-08-09",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-08-11",
+      "total": 7,
+      "by_language": {
+        "C++": 4,
+        "Python": 3
+      }
+    },
+    {
+      "date": "2025-08-12",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2025-08-13",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2025-08-14",
+      "total": 8,
+      "by_language": {
+        "C++": 2,
+        "Python": 5
+      },
+      "private": 1
+    },
+    {
+      "date": "2025-08-15",
+      "total": 10,
+      "by_language": {
+        "C++": 3,
+        "HTML": 4,
+        "Python": 3
+      }
+    },
+    {
+      "date": "2025-08-18",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2025-08-19",
+      "total": 8,
+      "by_language": {
+        "C++": 2,
+        "Python": 6
+      }
+    },
+    {
+      "date": "2025-08-20",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2025-08-21",
+      "total": 15,
+      "by_language": {
+        "Python": 15
+      }
+    },
+    {
+      "date": "2025-08-22",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2025-08-23",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-08-25",
+      "total": 21,
+      "by_language": {
+        "Python": 21
+      }
+    },
+    {
+      "date": "2025-08-26",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2025-08-27",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2025-08-28",
+      "total": 5,
+      "by_language": {
+        "C++": 5
+      }
+    },
+    {
+      "date": "2025-08-29",
+      "total": 13,
+      "by_language": {
+        "C++": 12,
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2025-08-30",
+      "total": 3,
+      "by_language": {
+        "C": 2,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-09-01",
+      "total": 7,
+      "by_language": {
+        "C++": 2,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2025-09-02",
+      "total": 4,
+      "by_language": {
+        "C++": 3,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-09-05",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2025-09-08",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2025-09-17",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2025-09-19",
+      "total": 17,
+      "by_language": {
+        "C": 17
+      }
+    },
+    {
+      "date": "2025-09-22",
+      "total": 4,
+      "by_language": {
+        "C++": 2,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2025-09-23",
+      "total": 8,
+      "by_language": {
+        "C++": 8
+      }
+    },
+    {
+      "date": "2025-09-24",
+      "total": 10,
+      "by_language": {
+        "C++": 10
+      }
+    },
+    {
+      "date": "2025-09-25",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2025-09-26",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2025-10-02",
+      "total": 1,
+      "by_language": {}
+    },
+    {
+      "date": "2025-10-03",
+      "total": 9,
+      "by_language": {},
+      "private": 9
+    },
+    {
+      "date": "2025-10-07",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-10-14",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2025-10-15",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2025-10-16",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2025-10-17",
+      "total": 5,
+      "by_language": {
+        "Python": 5
+      }
+    },
+    {
+      "date": "2025-10-23",
+      "total": 58,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 56
+    },
+    {
+      "date": "2025-10-24",
+      "total": 9,
+      "by_language": {
+        "C++": 9
+      }
+    },
+    {
+      "date": "2025-10-27",
+      "total": 14,
+      "by_language": {},
+      "private": 14
+    },
+    {
+      "date": "2025-10-28",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-10-30",
+      "total": 7,
+      "by_language": {
+        "C++": 4,
+        "Python": 3
+      }
+    },
+    {
+      "date": "2025-11-03",
+      "total": 16,
+      "by_language": {
+        "C++": 4,
+        "Python": 3
+      },
+      "private": 9
+    },
+    {
+      "date": "2025-11-04",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2025-11-05",
+      "total": 8,
+      "by_language": {},
+      "private": 8
+    },
+    {
+      "date": "2025-11-06",
+      "total": 27,
+      "by_language": {
+        "C++": 3,
+        "Python": 1
+      },
+      "private": 23
+    },
+    {
+      "date": "2025-11-07",
+      "total": 4,
+      "by_language": {
+        "Python": 2
+      },
+      "private": 2
+    },
+    {
+      "date": "2025-11-08",
+      "total": 44,
+      "by_language": {},
+      "private": 44
+    },
+    {
+      "date": "2025-11-09",
+      "total": 21,
+      "by_language": {},
+      "private": 21
+    },
+    {
+      "date": "2025-11-10",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2025-11-11",
+      "total": 61,
+      "by_language": {
+        "Python": 5
+      },
+      "private": 56
+    },
+    {
+      "date": "2025-11-17",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2025-11-18",
+      "total": 61,
+      "by_language": {
+        "Python": 5
+      },
+      "private": 56
+    },
+    {
+      "date": "2025-11-19",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2025-11-22",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2025-11-24",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2025-11-25",
+      "total": 56,
+      "by_language": {},
+      "private": 56
+    },
+    {
+      "date": "2025-11-26",
+      "total": 7,
+      "by_language": {
+        "Python": 7
+      }
+    },
+    {
+      "date": "2025-11-27",
+      "total": 14,
+      "by_language": {
+        "C++": 1,
+        "Python": 4
+      },
+      "private": 9
+    },
+    {
+      "date": "2025-11-30",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2025-12-02",
+      "total": 64,
+      "by_language": {
+        "C++": 2,
+        "HTML": 4
+      },
+      "private": 58
+    },
+    {
+      "date": "2025-12-03",
+      "total": 11,
+      "by_language": {
+        "HTML": 10
+      },
+      "private": 1
+    },
+    {
+      "date": "2025-12-04",
+      "total": 6,
+      "by_language": {
+        "C++": 6
+      }
+    },
+    {
+      "date": "2025-12-09",
+      "total": 60,
+      "by_language": {
+        "C++": 4
+      },
+      "private": 56
+    },
+    {
+      "date": "2025-12-10",
+      "total": 14,
+      "by_language": {
+        "C++": 12,
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2025-12-12",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2025-12-16",
+      "total": 56,
+      "by_language": {},
+      "private": 56
+    },
+    {
+      "date": "2025-12-23",
+      "total": 56,
+      "by_language": {},
+      "private": 56
+    },
+    {
+      "date": "2025-12-26",
+      "total": 8,
+      "by_language": {
+        "Jupyter Notebook": 8
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2025-12-30",
+      "total": 56,
+      "by_language": {},
+      "private": 56
+    },
+    {
+      "date": "2026-01-05",
+      "total": 7,
+      "by_language": {},
+      "private": 7
+    },
+    {
+      "date": "2026-01-06",
+      "total": 56,
+      "by_language": {},
+      "private": 56
+    },
+    {
+      "date": "2026-01-08",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2026-01-09",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2026-01-10",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-01-12",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-01-13",
+      "total": 59,
+      "by_language": {},
+      "private": 59
+    },
+    {
+      "date": "2026-01-14",
+      "total": 15,
+      "by_language": {
+        "C++": 7,
+        "Python": 8
+      }
+    },
+    {
+      "date": "2026-01-15",
+      "total": 3,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 2
+    },
+    {
+      "date": "2026-01-16",
+      "total": 11,
+      "by_language": {
+        "Python": 11
+      }
+    },
+    {
+      "date": "2026-01-20",
+      "total": 56,
+      "by_language": {},
+      "private": 56
+    },
+    {
+      "date": "2026-01-21",
+      "total": 5,
+      "by_language": {
+        "C++": 3
+      },
+      "private": 2
+    },
+    {
+      "date": "2026-01-22",
+      "total": 7,
+      "by_language": {
+        "C++": 6,
+        "Rust": 1
+      }
+    },
+    {
+      "date": "2026-01-23",
+      "total": 8,
+      "by_language": {
+        "C++": 8
+      }
+    },
+    {
+      "date": "2026-01-26",
+      "total": 13,
+      "by_language": {
+        "C++": 11,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2026-01-27",
+      "total": 57,
+      "by_language": {},
+      "private": 57
+    },
+    {
+      "date": "2026-01-30",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2026-02-02",
+      "total": 21,
+      "by_language": {
+        "C++": 3,
+        "Python": 16
+      },
+      "private": 2
+    },
+    {
+      "date": "2026-02-03",
+      "total": 72,
+      "by_language": {
+        "Python": 16
+      },
+      "private": 56
+    },
+    {
+      "date": "2026-02-04",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2026-02-05",
+      "total": 10,
+      "by_language": {
+        "C++": 10
+      }
+    },
+    {
+      "date": "2026-02-06",
+      "total": 3,
+      "by_language": {
+        "JavaScript": 1,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2026-02-09",
+      "total": 2,
+      "by_language": {
+        "C++": 1,
+        "Python": 1
+      }
+    },
+    {
+      "date": "2026-02-10",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2026-02-11",
+      "total": 8,
+      "by_language": {
+        "C++": 8
+      }
+    },
+    {
+      "date": "2026-02-17",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2026-02-18",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2026-02-19",
+      "total": 4,
+      "by_language": {
+        "Python": 4
+      }
+    },
+    {
+      "date": "2026-02-25",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2026-03-03",
+      "total": 5,
+      "by_language": {
+        "C++": 5
+      }
+    },
+    {
+      "date": "2026-03-05",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2026-03-06",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "Python": 3
+      }
+    },
+    {
+      "date": "2026-03-10",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "total": 20,
+      "by_language": {
+        "Python": 20
+      }
+    },
+    {
+      "date": "2026-03-19",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2026-03-25",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2026-03-30",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2026-03-31",
+      "total": 7,
+      "by_language": {
+        "Python": 1
+      },
+      "private": 6
+    },
+    {
+      "date": "2026-04-07",
+      "total": 15,
+      "by_language": {
+        "Python": 15
+      }
+    },
+    {
+      "date": "2026-04-08",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2026-04-13",
+      "total": 4,
+      "by_language": {
+        "C++": 2,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2026-04-14",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2026-04-15",
+      "total": 11,
+      "by_language": {
+        "C++": 6,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2026-04-16",
+      "total": 19,
+      "by_language": {
+        "HTML": 19
+      }
+    },
+    {
+      "date": "2026-04-17",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2026-04-20",
+      "total": 8,
+      "by_language": {
+        "Python": 8
+      }
+    },
+    {
+      "date": "2026-04-21",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2026-04-23",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2026-04-24",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2026-04-27",
+      "total": 11,
+      "by_language": {
+        "C++": 6,
+        "HTML": 3,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2026-04-28",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2026-04-29",
+      "total": 5,
+      "by_language": {
+        "C++": 2,
+        "HTML": 3
+      }
+    },
+    {
+      "date": "2026-04-30",
+      "total": 14,
+      "by_language": {
+        "C++": 14
+      }
+    },
+    {
+      "date": "2026-05-04",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2026-05-11",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "total": 28,
+      "by_language": {
+        "C++": 20,
+        "HTML": 8
+      }
+    },
+    {
+      "date": "2026-05-13",
+      "total": 6,
+      "by_language": {
+        "C++": 5,
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2026-05-14",
+      "total": 11,
+      "by_language": {
+        "Rust": 11
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "total": 6,
+      "by_language": {
+        "C++": 1,
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "total": 5,
+      "by_language": {
+        "HTML": 5
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "total": 5,
+      "by_language": {}
+    },
+    {
+      "date": "2026-06-12",
+      "total": 1,
+      "by_language": {
+        "Jupyter Notebook": 1
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "total": 13,
+      "by_language": {
+        "CSS": 13
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "total": 16,
+      "by_language": {
+        "C++": 6,
+        "HTML": 10
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "total": 2,
+      "by_language": {},
+      "private": 2
+    },
+    {
+      "date": "2026-06-22",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "total": 3,
+      "by_language": {
+        "C++": 3
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "total": 3,
+      "by_language": {
+        "Python": 3
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "total": 3,
+      "by_language": {},
+      "private": 3
+    },
+    {
+      "date": "2026-08-07",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "total": 1,
+      "by_language": {
+        "Python": 1
+      }
+    },
+    {
+      "date": "2026-08-20",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2026-08-21",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "total": 6,
+      "by_language": {},
+      "private": 6
+    },
+    {
+      "date": "2026-08-26",
+      "total": 7,
+      "by_language": {
+        "C++": 7
+      }
+    },
+    {
+      "date": "2026-09-01",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "total": 2,
+      "by_language": {
+        "C++": 1
+      },
+      "private": 1
+    },
+    {
+      "date": "2026-09-03",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "total": 6,
+      "by_language": {
+        "C++": 3,
+        "Python": 2
+      }
+    },
+    {
+      "date": "2026-09-10",
+      "total": 3,
+      "by_language": {
+        "HTML": 3
+      }
+    },
+    {
+      "date": "2026-09-11",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2026-09-22",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "total": 1,
+      "by_language": {
+        "C++": 1
+      }
+    },
+    {
+      "date": "2026-09-25",
+      "total": 1,
+      "by_language": {
+        "Julia": 1
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "total": 5,
+      "by_language": {}
+    },
+    {
+      "date": "2026-10-02",
+      "total": 11,
+      "by_language": {
+        "C++": 9
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "total": 5,
+      "by_language": {
+        "C++": 1,
+        "HTML": 4
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "total": 3,
+      "by_language": {
+        "CSS": 3
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "total": 3,
+      "by_language": {
+        "CSS": 2
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "total": 4,
+      "by_language": {
+        "C++": 4
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "total": 5,
+      "by_language": {
+        "HTML": 5
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "total": 2,
+      "by_language": {
+        "C++": 2
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "total": 1,
+      "by_language": {
+        "HTML": 1
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "total": 1,
+      "by_language": {},
+      "private": 1
+    },
+    {
+      "date": "2026-10-23",
+      "total": 15,
+      "by_language": {
+        "C++": 10,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "total": 3,
+      "by_language": {
+        "HTML": 3
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "total": 6,
+      "by_language": {
+        "C++": 2,
+        "HTML": 4
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "total": 5,
+      "by_language": {
+        "C++": 5
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "total": 8,
+      "by_language": {
+        "C++": 8
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "total": 6,
+      "by_language": {
+        "C++": 4,
+        "HTML": 2
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "total": 20,
+      "by_language": {
+        "Python": 20
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "total": 2,
+      "by_language": {
+        "Python": 2
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "total": 12,
+      "by_language": {
+        "C++": 1,
+        "Python": 11
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "total": 6,
+      "by_language": {
+        "Python": 6
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "total": 7,
+      "by_language": {
+        "C++": 3,
+        "Python": 3
+      }
+    }
+  ],
+  "truncated_windows": [],
+  "achievements": {
+    "arctic-code-vault-contributor": 1,
+    "pull-shark": 2,
+    "quickdraw": 1,
+    "starstruck": 1,
+    "yolo": 1
+  },
+  "achievement_dates": {
+    "arctic-code-vault-contributor": [
+      "2020-02-02"
+    ],
+    "pull-shark": [
+      "2015-05-07",
+      "2026-11-19"
+    ],
+    "quickdraw": [
+      "2023-03-31"
+    ],
+    "starstruck": [
+      "2025-01-28"
+    ],
+    "yolo": [
+      "2023-11-15"
+    ]
+  }
+}
