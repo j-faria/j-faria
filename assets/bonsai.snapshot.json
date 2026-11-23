@@ -4,9 +4,9 @@
   "account_id": 1958991,
   "range": {
     "from": "2012-01-01",
-    "to": "2026-11-19"
+    "to": "2026-11-22"
   },
-  "observed_on": "2026-11-19",
+  "observed_on": "2026-11-22",
   "collected_with": "gitbonsai 0.4.0",
   "language_colors": {
     "C": "#555555",
@@ -11036,6 +11036,22 @@
       "by_language": {
         "C++": 3,
         "Python": 3
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "total": 12,
+      "by_language": {
+        "C++": 2,
+        "CSS": 2,
+        "Python": 5
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "total": 4,
+      "by_language": {
+        "C++": 4
       }
     }
   ],
